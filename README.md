@@ -8,7 +8,7 @@ Group Name: R3
 Members:
 ➢ Anjali Kshirsagar (002743547) 
 ➢ Gayatri Kenkare (002743776) 
-➢ Snehal Padekar (002747903) 
+➢ Snehal Padekar (002737903) 
 ➢ Mahek Gangadia (002797094)
 
 Description:
