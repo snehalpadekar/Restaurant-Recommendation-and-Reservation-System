@@ -1,0 +1,16 @@
+restaurant_id,restaurant_name,restaurant_rating,restaurant_type,restaurant_contact_no,opening_hrs,closing_hrs,budget_for_2,restaurant_address,city,state,zipcode,no_of_tables
+1001,Five Guys,4.3,Fast food restaurant,(617) 936-3657,11:00:00,22:00:00,21,"263 Huntington Ave, Boston, ",Boston,MA, 02115,20
+1002,Subway,3.7,Sandwich shop,(617) 373-4613,Closed,Closed,25,"Ryder hall, Leon St, Boston, ",Boston,MA, 02115,13
+1003,Mcdonalds,3.6,Fast food restaurant,(617) 778-5228,06:00:00,00:00:00,18,"540 Commonwealth Ave, Boston, ",Boston,MA, 02215,10
+1004,Starbucks,3.7,Coffee shop,(617) 373-2530,07:00:00,21:00:00,38,"360 Huntington Ave, Boston, ",Boston,MA, 02115,15
+1005,Wendys,3.9,Fast food restaurant,(617) 236-1550,08:00:00,23:30:00,21,"157-A Massachusetts Ave, Boston, ",Boston,MA, 02127,25
+1006,Popeyes,3.9,Chicken restaurant,(617) 373-4950,00:00:00,19:00:00,23,"Northeastern University, 360 Huntington Ave, Boston, ",Boston,MA, 02115,15
+1007,Shake shack,4.3,Hamburger restaurant,(617) 933-5050,11:00:00,22:00:00,44,"234-236 Newbury St, Boston, ",Boston,MA, 02116,18
+1008,Dominos,2.6,Pizza delivery,(617) 541-3525,10:00:00,03:00:00,38,"1400 Tremont St Roxbury Crossing Station - Space D, Crossing, ",Boston,MA, 02120,12
+1009,KFC,3.6,Chicken restaurant,(617) 282-2068,10:00:00,23:00:00,16,"695 Columbia Rd, Dorchester, ",Boston,MA, 02125,11
+1010,Qdoba,4.1,Mexican restaurant,(617) 450-0910,10:30:00,23:00:00,41,"393 Huntington Ave Ste 101, Boston, ",Boston,MA, 02115,9
+1011,Dunkin Donuts,4.2,Coffee shop,(617) 373-8414,08:00:00,14:00:00,15,"Northeastern - Shillman Hall, 115 Forsyth St, Boston, ",Boston,MA, 02115,15
+1012,Blaze Pizza,4.5,Pizza restaurant,(617) 297-9585,11:00:00,22:00:00,10,"1282 Boylston St, Boston, ",Boston,MA, 02215,12
+1013,Panera Bread,3.9,Cafe,(617) 425-8565,06:00:00,22:00:00,42,"289 Huntington Ave, Boston, ",Boston,MA, 02115,10
+1014,Cheddars,4.6,Sandwich shop,(617) 375-6333,10:00:00,20:00:00,19,"1638 Washington St, Boston, ",Boston,MA, 02118,20
+1015,Burger King,3.8,Restaurant,(617) 556-8299,07:00:00,22:00:00,48,"128 Tremont St, Boston, ",Boston,MA, 02108,25

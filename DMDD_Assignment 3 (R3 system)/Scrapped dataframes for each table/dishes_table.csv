@@ -1,0 +1,1029 @@
+,dish_id,dish_name,dish_type,dish_price,menu_id,restaurant_id,cuisine_id
+0,3001,Hamburger ,Non-Veg,6.99,1,1001,5007
+1,3002,Cheeseburger ,Veg,7.69,1,1001,5004
+2,3003,Bacon Burger ,Veg,7.99,1,1001,5001
+3,3004,Bacon Cheeseburger ,Veg,8.69,1,1001,5003
+4,3005,Little Hamburger ,Veg,4.99,1,1001,5005
+5,3006,Little Cheeseburger ,Non-Veg,5.69,1,1001,5007
+6,3007,Little Bacon Burger ,Veg,5.99,1,1001,5007
+7,3008,Little Bacon Cheeseburger ,Veg,6.69,1,1001,5004
+8,3009,Hot Dog ,Non-Veg,4.69,1,1001,5002
+9,3010,Cheese Dog ,Veg,5.39,1,1001,5006
+10,3011,Bacon Dog ,Non-Veg,5.69,1,1001,5001
+11,3012,Bacon Cheese Dog ,Non-Veg,6.39,1,1001,5003
+12,3013,Veggie Sandwich ,Veg,3.69,1,1001,5005
+13,3014,Veggie Sandwich with Cheese ,Non-Veg,4.39,1,1001,5004
+14,3015,Grilled Cheese ,Non-Veg,4.39,1,1001,5007
+15,3016,BLT ,Veg,5.59,1,1001,5001
+16,3017,Fries Little ,Non-Veg,3.09,1,1001,5006
+17,3018,Fries Regular ,Veg,4.19,1,1001,5004
+18,3019,Fries Large ,Veg,5.79,1,1001,5002
+19,3020,Cajun Fries Little ,Veg,3.09,1,1001,5001
+20,3021,Cajun Fries Regular ,Veg,4.19,1,1001,5005
+21,3022,Cajun Fries Large ,Veg,5.79,1,1001,5002
+25,3023,Ultimate Steak Footlong ,Veg,11.49,1,1002,5007
+26,3024,Ultimate Steak Six Inch ,Veg,7.29,1,1002,5001
+27,3025,Meatball Marinara Footlong ,Veg,5.29,1,1002,5004
+28,3026,Meatball Marinara Six Inch ,Non-Veg,3.99,1,1002,5006
+29,3027,Spicy Italian Footlong ,Veg,6.49,1,1002,5007
+30,3028,Spicy Italian Six Inch ,Veg,4.99,1,1002,5006
+31,3029,B.L.T Footlong ,Veg,8.49,1,1002,5001
+32,3030,B.L.T Six Inch ,Non-Veg,5.29,1,1002,5006
+33,3031,Black Forest Ham Footlong ,Veg,6.49,1,1002,5007
+34,3032,Black Forest Ham Six Inch ,Veg,4.99,1,1002,5002
+35,3033,Chicken Caesar Melt Footlong ,Non-Veg,7.79,1,1002,5002
+36,3034,Chicken Caesar Melt Six Inch ,Veg,4.79,1,1002,5006
+37,3035,Cold Cut Combo Footlong ,Non-Veg,4.99,1,1002,5004
+38,3036,Cold Cut Combo Six Inch ,Veg,3.99,1,1002,5003
+39,3037,Italian B.M.T. Footlong ,Veg,8.49,1,1002,5005
+40,3038,Italian B.M.T. Six Inch ,Veg,5.29,1,1002,5007
+41,3039,Pizza Sub Melt Footlong ,Non-Veg,7.49,1,1002,5006
+42,3040,Pizza Sub Melt Six Inch ,Non-Veg,4.99,1,1002,5007
+43,3041,Roast Beef Footlong ,Non-Veg,9.49,1,1002,5002
+44,3042,Roast Beef Six Inch ,Veg,6.29,1,1002,5006
+45,3043,Rotisserie-Style Chicken Footlong ,Veg,8.49,1,1002,5005
+46,3044,Rotisserie-Style Chicken Six Inch ,Non-Veg,5.29,1,1002,5006
+47,3045,Rotisserie-Style Chicken & Bacon Melt Footlong ,Non-Veg,9.49,1,1002,5001
+48,3046,Rotisserie-Style Chicken & Bacon Melt Six Inch ,Veg,6.29,1,1002,5007
+49,3047,Steak & Cheese Footlong ,Non-Veg,9.49,1,1002,5006
+50,3048,Steak & Cheese Six Inch ,Veg,6.29,1,1002,5005
+51,3049,Subway Club Footlong ,Veg,9.49,1,1002,5004
+52,3050,Subway Club Six Inch ,Veg,6.29,1,1002,5006
+53,3051,Subway Melt Footlong ,Non-Veg,9.49,1,1002,5001
+54,3052,Subway Melt Six Inch ,Veg,6.29,1,1002,5004
+55,3053,Sweet Onion Chicken Teriyaki Footlong ,Veg,8.49,1,1002,5007
+56,3054,Sweet Onion Chicken Teriyaki Six Inch ,Veg,5.29,1,1002,5002
+57,3055,Tuna Footlong ,Veg,8.49,1,1002,5003
+58,3056,Tuna Six Inch ,Non-Veg,5.29,1,1002,5004
+59,3057,Turkey & Bacon Guacamole Footlong ,Non-Veg,11.49,1,1002,5002
+60,3058,Turkey Breast Footlong ,Non-Veg,8.49,1,1002,5002
+61,3059,Turkey Breast Six Inch ,Non-Veg,5.29,1,1002,5002
+62,3060,Veggie Delite Footlong ,Non-Veg,4.99,1,1002,5005
+63,3061,Veggie Delite Six Inch ,Veg,3.49,1,1002,5007
+64,3062,B.L.T. Signature Wrap ,Veg,6.99,1,1002,5004
+65,3063,Black Forest Ham Signature Wrap ,Veg,6.99,1,1002,5001
+66,3064,Cold Cut Combo Signature Wrap ,Non-Veg,6.99,1,1002,5006
+67,3065,Italian B.M.T. Signature Wrap ,Non-Veg,6.99,1,1002,5004
+68,3066,Meatball Marinara Signature Wrap ,Non-Veg,6.99,1,1002,5006
+69,3067,Roast Beef Signature Wrap ,Non-Veg,6.99,1,1002,5001
+70,3068,Rotisserie-Style Chicken Signature Wrap ,Veg,6.99,1,1002,5001
+71,3069,Savory Rotisserie-Style Chicken Caesar Signature Wrap ,Veg,6.99,1,1002,5005
+72,3070,Spicy Italian Signature Wrap ,Veg,6.99,1,1002,5001
+73,3071,Steak & Cheese Signature Wrap ,Non-Veg,7.49,1,1002,5006
+74,3072,Subway Club Signature Wrap ,Veg,6.99,1,1002,5004
+75,3073,Subway Melt Signature Wrap ,Veg,6.99,1,1002,5003
+76,3074,Sweet Onion Chicken Teriyaki Signature Wrap ,Veg,6.99,1,1002,5007
+77,3075,Tuna Signature Wrap ,Non-Veg,6.99,1,1002,5003
+78,3076,Turkey Breast & Black Forest Ham Signature Wrap ,Non-Veg,6.99,1,1002,5002
+79,3077,Turkey Breast Signature Wrap ,Non-Veg,6.99,1,1002,5005
+80,3078,Turkey Italiano Melt Signature Wrap ,Non-Veg,6.99,1,1002,5002
+81,3079,"Turkey, Bacon & Guacamole Signature Wrap ",Veg,7.29,1,1002,5004
+82,3080,Veggie Delite Signature Wrap ,Non-Veg,5.99,1,1002,5006
+83,3081,"Bacon, Egg & Cheese Signature Wrap ",Veg,6.99,1,1002,5002
+84,3082,"Black Forest Ham, Egg & Cheese Signature Wrap ",Non-Veg,6.99,1,1002,5006
+85,3083,Egg & Cheese Signature Wrap ,Non-Veg,6.99,1,1002,5006
+86,3084,"Steak, Egg & Cheese Signature Wrap ",Veg,6.99,1,1002,5002
+87,3085,"Bacon, Egg & Cheese Footlong ",Veg,6.49,1,1002,5004
+88,3086,"Bacon, Egg & Cheese Six Inch ",Veg,4.29,1,1002,5003
+89,3087,"Black Forest Ham, Egg & Cheese Footlong ",Veg,6.49,1,1002,5005
+90,3088,"Black Forest Ham, Egg & Cheese Six Inch ",Veg,4.29,1,1002,5007
+91,3089,Breakfast B.M.T. Melt Footlong ,Veg,6.49,1,1002,5007
+92,3090,Breakfast B.M.T. Melt Six Inch ,Veg,4.29,1,1002,5006
+93,3091,Egg & Cheese Footlong ,Non-Veg,4.99,1,1002,5005
+94,3092,Egg & Cheese Six Inch ,Non-Veg,3.99,1,1002,5002
+95,3093,"Steak, Egg & Cheese Footlong ",Veg,6.48,1,1002,5004
+96,3094,"Steak, Egg & Cheese Six Inch ",Veg,4.29,1,1002,5001
+97,3095,Sunrise Subway Melt Footlong ,Veg,6.49,1,1002,5007
+98,3096,Sunrise Subway Melt Six Inch ,Veg,4.29,1,1002,5006
+99,3097,Black Forest Ham ,Veg,7.78,1,1002,5003
+100,3098,Roast Beef ,Veg,8.78,1,1002,5003
+101,3099,Turkey Breast ,Non-Veg,7.78,1,1002,5001
+102,3100,Veggie Delite ,Non-Veg,5.98,1,1002,5001
+103,3101,Chicken Caesar ,Non-Veg,6.49,1,1002,5002
+104,3102,Pizza Sub ,Non-Veg,7.48,1,1002,5003
+105,3103,Rotisserie-Style Chicken ,Veg,7.78,1,1002,5002
+106,3104,Rotisserie-Style Chicken & Bacon ,Veg,8.78,1,1002,5001
+107,3105,B.L.T. ,Non-Veg,7.78,1,1002,5007
+108,3106,Turkey & Bacon Guacamole ,Veg,9.28,1,1002,5006
+109,3107,Chicken & Bacon Ranch ,Non-Veg,8.78,1,1002,5002
+110,3108,Cold Cut Combo ,Veg,6.48,1,1002,5003
+111,3109,Italian B.M.T. ,Veg,7.78,1,1002,5002
+112,3110,Meatball Marinara ,Non-Veg,6.48,1,1002,5007
+113,3111,Spicy Italian ,Veg,7.78,1,1002,5004
+114,3112,Steak & Cheese ,Non-Veg,8.78,1,1002,5002
+115,3113,Subway Club ,Veg,8.78,1,1002,5006
+116,3114,Subway Melt ,Veg,8.78,1,1002,5005
+117,3115,Sweet Onion Chicken Teriyaki ,Veg,7.78,1,1002,5006
+118,3116,Tuna ,Veg,7.78,1,1002,5007
+119,3117,Ham and Jack ,Non-Veg,1.89,1,1002,5004
+120,3118,Italian Spice ,Non-Veg,1.89,1,1002,5002
+121,3119,Little Cheesesteak ,Non-Veg,2.39,1,1002,5007
+122,3120,Little Turkey ,Non-Veg,2.19,1,1002,5006
+123,3121,Apple Sauce ,Veg,1.49,1,1002,5007
+124,3122,Chips ,Non-Veg,1.49,1,1002,5006
+125,3123,Chocolate Chip Cookie ,Non-Veg,0.59,1,1002,5003
+126,3124,Oatmeal Raisin Cookie ,Veg,0.59,1,1002,5007
+127,3125,Double Chocolate Cookie ,Veg,0.59,1,1002,5005
+128,3126,White Chip Macadamia Nut Cookie ,Non-Veg,0.59,1,1002,5003
+129,3127,Dark Chocolate Cherry Cookie ,Veg,0.59,1,1002,5004
+145,3128,Cheese Flatizza ,Veg,3.5,1,1002,5004
+146,3129,Pepperoni Flatizza ,Veg,3.5,1,1002,5005
+147,3130,Spicy Italian Flatizza ,Non-Veg,3.5,1,1002,5002
+148,3131,Veggie Flatizza ,Non-Veg,3.5,1,1002,5007
+149,3132,Big Mac ,Non-Veg,3.99,1,1003,5005
+150,3133,Big Mac â Meal ,Veg,5.99,1,1003,5001
+151,3134,2 Cheeseburgers ,Veg,2.0,1,1003,5004
+152,3135,2 Cheeseburgers â Meal ,Non-Veg,4.89,1,1003,5007
+153,3136,Quarter Pounder with Cheese ,Non-Veg,3.79,1,1003,5005
+154,3137,Quarter Pounder with Cheese â Meal ,Veg,5.79,1,1003,5004
+155,3138,Double Quarter Pounder with Cheese ,Non-Veg,4.79,1,1003,5001
+156,3139,Double Quarter Pounder with Cheese â Meal ,Non-Veg,6.69,1,1003,5006
+157,3140,Bacon Clubhouse Burger ,Non-Veg,4.49,1,1003,5001
+158,3141,Bacon Clubhouse Burger â Meal ,Veg,6.49,1,1003,5006
+159,3142,Buttermilk Crispy Chicken ,Non-Veg,4.39,1,1003,5003
+160,3143,Buttermilk Crispy Chicken â Meal ,Non-Veg,6.39,1,1003,5001
+161,3144,Artisan Grilled Chicken ,Veg,4.39,1,1003,5003
+162,3145,Artisan Grilled Chicken â Meal ,Veg,6.39,1,1003,5001
+163,3146,Premium McWrap Chicken & Bacon (Grilled or Crispy) ,Veg,4.39,1,1003,5001
+164,3147,Premium McWrap Chicken & Bacon (Grilled or Crispy) â Meal ,Non-Veg,6.39,1,1003,5004
+165,3148,Premium McWrap Chicken & Ranch (Grilled or Crispy) ,Non-Veg,4.39,1,1003,5007
+166,3149,Premium McWrap Chicken & Ranch (Grilled or Crispy) â Meal ,Non-Veg,6.39,1,1003,5005
+167,3150,Premium McWrap Sweet Chili Chicken (Grilled or Crispy) ,Non-Veg,4.39,1,1003,5001
+168,3151,Premium McWrap Sweet Chili Chicken (Grilled or Crispy) â Meal ,Veg,6.39,1,1003,5006
+169,3152,Filet-O-Fish ,Non-Veg,3.79,1,1003,5006
+170,3153,Filet-O-Fish â Meal ,Veg,5.79,1,1003,5007
+171,3154,Double Filet-O-Fish ,Veg,4.79,1,1003,5002
+172,3155,Double Filet-O-Fish â Meal ,Veg,6.79,1,1003,5001
+173,3156,Premium Chicken Bacon Clubhouse (Grilled or Crispy) ,Veg,4.49,1,1003,5007
+174,3157,Premium Chicken Bacon Clubhouse (Grilled or Crispy) â Meal ,Non-Veg,6.49,1,1003,5007
+175,3158,Chicken McNuggets (Regular or Spicy) 10 Pc. ,Veg,4.49,1,1003,5002
+176,3159,Chicken McNuggets â Meal (Regular or Spicy) 10 Pc. ,Veg,6.49,1,1003,5001
+177,3160,Chicken McNuggets (Regular or Spicy) 20 Pc. ,Non-Veg,5.0,1,1003,5007
+178,3161,Chicken McNuggets (Regular or Spicy) 40 Pc. ,Non-Veg,8.99,1,1003,5005
+179,3162,Southwest Salad ,Veg,4.79,1,1003,5007
+180,3163,Bacon Ranch Salad ,Veg,4.59,1,1003,5003
+181,3164,Donut Sticks ,Non-Veg,2.59,1,1003,5006
+182,3165,French Fries Small ,Veg,1.39,1,1003,5001
+183,3166,French Fries Medium ,Non-Veg,1.79,1,1003,5002
+184,3167,French Fries Large ,Veg,1.89,1,1003,5005
+185,3168,"Minute Maid Slushie (Blue Rapsberry, Fruit Punch, Pink Lemonade) ",Veg,2.0,1,1003,5001
+186,3169,Apple Slices ,Non-Veg,1.0,1,1003,5004
+194,3170,Chicken McNuggets 4 Pc. ,Veg,3.29,1,1003,5004
+195,3171,Hamburger ,Veg,2.49,1,1003,5007
+196,3172,Cheeseburger ,Veg,2.79,1,1003,5001
+197,3173,Fruit & Maple Oatmeal ,Veg,1.99,1,1003,5005
+200,3174,McRib ,Veg,3.69,1,1003,5003
+201,3175,Holiday Pie ,Veg,0.89,1,1003,5003
+202,3176,Spicy McChicken ,Non-Veg,1.0,1,1003,5003
+206,3177,Spicy Chicken McNuggets 10 Pc. ,Veg,4.35,1,1003,5006
+208,3178,Angus Chipotle BBQ Burger ,Veg,9.75,1,1003,5004
+299,3179,Ham & Cheese Savory Foldover ,Non-Veg,3.45,1,1004,5006
+300,3180,Wheat Spinach Savory Foldover ,Veg,3.45,1,1004,5001
+301,3181,Pepperoni & Tomato Savory Foldover ,Veg,3.45,1,1004,5006
+302,3182,Cheese Danish ,Non-Veg,2.45,1,1004,5005
+303,3183,Butter Croissant ,Veg,2.45,1,1004,5002
+304,3184,Chocolate Croissant ,Veg,2.75,1,1004,5007
+305,3185,Blueberry Scone ,Veg,2.45,1,1004,5002
+306,3186,Banana Nut Bread ,Non-Veg,2.75,1,1004,5005
+307,3187,Iced Lemon Pound Cake ,Non-Veg,2.45,1,1004,5007
+308,3188,Morning Bun ,Veg,2.45,1,1004,5001
+309,3189,Chocolate Chip Cookie ,Veg,1.95,1,1004,5004
+310,3190,Double Chocolate Chunk Brownie ,Non-Veg,2.35,1,1004,5004
+311,3191,Pumpkin Scone (Limited Time) ,Non-Veg,2.95,1,1004,5001
+312,3192,Pumpkin Cream Cheese Muffin (Limited Time) ,Veg,2.95,1,1004,5004
+313,3193,Washington Apple Pound Cake (Limited Time) ,Non-Veg,2.95,1,1004,5001
+314,3194,Hearty Blueberry Oatmeal ,Veg,3.45,1,1004,5005
+315,3195,Bacon & Gouda Breakfast Sandwich ,Non-Veg,3.75,1,1004,5006
+316,3196,Sausage & Cheddar Breakfast Sandwich ,Veg,3.45,1,1004,5007
+317,3197,Spinach & Feta Breakfast Wrap ,Non-Veg,3.75,1,1004,5003
+318,3198,Reduced-Fat Turkey Bacon Breakfast Sandwich ,Veg,3.75,1,1004,5003
+319,3199,Slow-Roasted Ham & Swiss on Croissant Bun ,Veg,4.75,1,1004,5004
+320,3200,"Double-Smoked Bacon, Cheddar & Egg on Croissant Bun (Limited Time) ",Veg,4.75,1,1004,5007
+321,3201,Protein Bistro Box ,Veg,5.25,1,1004,5007
+322,3202,Cheese & Fruit Bistro Box ,Veg,4.95,1,1004,5002
+323,3203,Omega-3 Bistro Box ,Veg,5.95,1,1004,5006
+324,3204,PB&J on Wheat Bistro Box ,Non-Veg,5.25,1,1004,5007
+325,3205,Turkey Rustico Panini ,Veg,6.45,1,1004,5003
+326,3206,Turkey Pesto Panini ,Non-Veg,6.45,1,1004,5002
+327,3207,Ham & Swiss Panini ,Non-Veg,5.95,1,1004,5001
+328,3208,Chicken Santa Fe Flatbread ,Veg,5.95,1,1004,5002
+329,3209,Chicken BLT Salad Deli Sandwich ,Veg,5.95,1,1004,5005
+330,3210,Roasted Tomato & Mozzarella Panini ,Veg,5.55,1,1004,5003
+331,3211,Chicken Artichoke Panini (Limited Time) ,Non-Veg,6.45,1,1004,5002
+332,3212,Old-Fashioned Grilled Cheese ,Non-Veg,5.25,1,1004,5005
+333,3213,Edamame Hummus Wrap (Limited Time) ,Non-Veg,5.95,1,1004,5006
+334,3214,Thai-Style Peanut Chicken Wrap (Limited Time) ,Veg,5.95,1,1004,5003
+335,3215,Salted Caramel or Birthday Cake Pop ,Veg,1.95,1,1004,5003
+336,3216,Salted Caramel or Birthday Cake Pop 2 Pc. ,Non-Veg,3.5,1,1004,5001
+337,3217,Daveâs Hot ân Juicy 1/4 lb. Single with Cheese ,Veg,4.19,1,1005,5007
+338,3218,Daveâs Hot ân Juicy 1/4 lb. Single with Cheese â Combo ,Non-Veg,6.19,1,1005,5004
+339,3219,Daveâs Hot ân Juicy 1/2 lb.. Double with Cheese ,Veg,5.19,1,1005,5007
+340,3220,Daveâs Hot ân Juicy 1/2 lb.. Double with Cheese â Combo ,Non-Veg,7.19,1,1005,5004
+341,3221,Daveâs Hot ân Juicy 3/4 lb. Triple with Cheese ,Veg,6.09,1,1005,5003
+342,3222,Daveâs Hot ân Juicy 3/4 lb. Triple with Cheese â Combo ,Non-Veg,8.09,1,1005,5005
+343,3223,Baconator ,Veg,6.09,1,1005,5003
+344,3224,Baconator â Combo ,Veg,8.09,1,1005,5004
+345,3225,Son of Baconator ,Veg,4.69,1,1005,5006
+346,3226,Son of Baconator â Combo ,Veg,6.69,1,1005,5003
+347,3227,Gouda Bacon Cheeseburger (Limited Time) ,Veg,4.99,1,1005,5002
+348,3228,Gouda Bacon Cheeseburger â Combo (Limited Time) ,Non-Veg,6.99,1,1005,5005
+349,3229,Upgrade to Medium Combo ,Veg,0.6,1,1005,5007
+350,3230,Upgrade to Large Combo ,Veg,1.1,1,1005,5001
+351,3231,Spicy Chicken ,Non-Veg,4.69,1,1005,5001
+352,3232,Spicy Chicken â Combo ,Non-Veg,6.69,1,1005,5001
+353,3233,Homestyle Chicken ,Veg,4.69,1,1005,5002
+354,3234,Homestyle Chicken â Combo ,Non-Veg,6.69,1,1005,5004
+355,3235,Asiago Ranch Chicken Club ,Veg,5.49,1,1005,5007
+356,3236,Asiago Ranch Chicken Club â Combo ,Non-Veg,7.49,1,1005,5007
+357,3237,Ultimate Chicken Grill ,Non-Veg,4.69,1,1005,5004
+358,3238,Ultimate Chicken Grill â Combo ,Non-Veg,6.69,1,1005,5003
+359,3239,10 Pc. Chicken Nuggets â Combo ,Veg,5.99,1,1005,5007
+360,3240,Apple Pecan Chicken Half ,Veg,4.69,1,1005,5007
+361,3241,Apple Pecan Chicken Full ,Veg,6.69,1,1005,5007
+362,3242,Asian Cashew Chicken Half ,Non-Veg,4.69,1,1005,5006
+363,3243,Asian Cashew Chicken Full ,Veg,6.69,1,1005,5007
+364,3244,BBQ Ranch Chicken Half ,Non-Veg,4.69,1,1005,5001
+365,3245,BBQ Ranch Chicken Full ,Non-Veg,6.69,1,1005,5007
+366,3246,Spicy Chicken Caesar Half ,Non-Veg,4.69,1,1005,5001
+367,3247,Spicy Chicken Caesar Full ,Non-Veg,6.69,1,1005,5006
+368,3248,Jr. Cheeseburger Deluxe ,Veg,1.89,1,1005,5006
+369,3249,Jr. Bacon Cheeseburger ,Veg,1.99,1,1005,5006
+370,3250,Double Stack ,Veg,2.09,1,1005,5001
+371,3251,6 Pc. Regular or Spicy Chicken Nuggets ,Non-Veg,1.79,1,1005,5001
+372,3252,Chicken Go Wrap (Spicy or Grilled) ,Veg,1.79,1,1005,5005
+373,3253,Caesar or Garden Side Salad ,Veg,1.49,1,1005,5001
+374,3254,Chili Small ,Non-Veg,2.09,1,1005,5004
+375,3255,Jr. Cheeseburger ,Non-Veg,0.99,1,1005,5004
+376,3256,Crispy Chicken Sandwich ,Non-Veg,0.99,1,1005,5005
+377,3257,4 Pc. Regular or Spicy Chicken Nuggets ,Non-Veg,0.99,1,1005,5002
+378,3258,Value Natural-Cut Fries ,Veg,0.99,1,1005,5002
+381,3259,Bacon & Cheese Baked Potato ,Non-Veg,2.89,1,1005,5002
+382,3260,Broccoli & Cheese Baked Potato ,Non-Veg,2.89,1,1005,5002
+383,3261,Natural-Cut Fries Small ,Non-Veg,1.69,1,1005,5007
+384,3262,Natural-Cut Fries Medium ,Non-Veg,1.99,1,1005,5002
+385,3263,Natural-Cut Fries Large ,Veg,2.19,1,1005,5005
+386,3264,Cheese Fries ,Non-Veg,2.19,1,1005,5007
+387,3265,Bacon Fondue Fries (Limited Time) ,Non-Veg,1.99,1,1005,5005
+388,3266,Sour Cream & Chives Baked Potato ,Veg,2.79,1,1005,5007
+389,3267,Rich & Meaty Chili Small ,Veg,2.09,1,1005,5006
+390,3268,Rich & Meaty Chili Large ,Veg,2.79,1,1005,5007
+391,3269,Caesar Side Salad ,Veg,1.49,1,1005,5001
+392,3270,Garden Side Salad ,Veg,1.49,1,1005,5005
+393,3271,Family Size Chili ,Non-Veg,9.99,1,1005,5003
+394,3272,Meal (Limited Time) 4 Pc. ,Veg,4.0,1,1005,5006
+422,3273,Grilled Chicken Wrap ,Non-Veg,3.79,1,1005,5006
+423,3274,4 Pc. Chicken Nuggets ,Non-Veg,3.69,1,1005,5002
+424,3275,Cheeseburger ,Non-Veg,3.69,1,1005,5006
+425,3276,Hamburger ,Veg,3.39,1,1005,5006
+426,3277,Classic Chicken Sandwich Combo ,Veg,7.69,1,1006,5006
+427,3278,Spicy Chicken Sandwich Combo ,Veg,7.69,1,1006,5003
+428,3279,BonafideÂ® Chicken â Dinner 2 Pc. ,Non-Veg,5.29,1,1006,5006
+429,3280,BonafideÂ® Chicken â Combo 2 Pc. ,Non-Veg,6.79,1,1006,5002
+430,3281,BonafideÂ® Chicken â Dinner 3 Pc. ,Veg,6.49,1,1006,5004
+431,3282,BonafideÂ® Chicken â Combo 3 Pc. ,Veg,7.99,1,1006,5006
+432,3283,BonafideÂ® Chicken â Dinner 4 Pc. ,Non-Veg,7.69,1,1006,5005
+433,3284,BonafideÂ® Chicken â Combo 4 Pc. ,Non-Veg,9.19,1,1006,5003
+434,3285,Wings â Dinner 3 Pc. ,Non-Veg,6.49,1,1006,5005
+435,3286,Wings â Combo 3 Pc. ,Veg,7.99,1,1006,5006
+436,3287,Tenders â Dinner 3 Pc. ,Non-Veg,5.79,1,1006,5001
+437,3288,Tenders â Combo 3 Pc. ,Non-Veg,7.29,1,1006,5002
+438,3289,Tenders â Dinner 5 Pc. ,Non-Veg,7.79,1,1006,5001
+439,3290,Tenders â Combo 5 Pc. ,Non-Veg,9.29,1,1006,5001
+440,3291,1/4 lb Popcorn Shrimp Dinner ,Veg,5.49,1,1006,5006
+441,3292,1/4 lb Popcorn Shrimp Combo ,Non-Veg,6.99,1,1006,5006
+442,3293,Mixed Chicken 8 Pc. ,Veg,19.8,1,1006,5003
+443,3294,Mixed Chicken 12 Pc. ,Veg,28.6,1,1006,5007
+444,3295,Mixed Chicken 16 Pc. ,Non-Veg,35.2,1,1006,5007
+445,3296,Handcrafted Tenders 8 Pc. ,Veg,19.8,1,1006,5006
+446,3297,Handcrafted Tenders 12 Pc. ,Veg,28.6,1,1006,5003
+447,3298,Handcrafted Tenders 16 Pc. ,Non-Veg,35.2,1,1006,5005
+448,3299,Red Beans & Rice Regular ,Veg,1.79,1,1006,5005
+449,3300,Red Beans & Rice Large ,Non-Veg,3.99,1,1006,5007
+450,3301,Mashed Potatoes with Cajun Gravy Regular ,Veg,1.79,1,1006,5002
+451,3302,Mashed Potatoes with Cajun Gravy Large ,Non-Veg,3.99,1,1006,5001
+452,3303,Cole Slaw Regular ,Veg,1.79,1,1006,5005
+453,3304,Cole Slaw Large ,Veg,3.99,1,1006,5002
+454,3305,Cajun Fries Regular ,Veg,1.79,1,1006,5002
+455,3306,Cajun Fries Large ,Non-Veg,3.99,1,1006,5001
+456,3307,Cajun Rice Regular ,Veg,1.79,1,1006,5002
+457,3308,Cajun Rice Large ,Veg,3.99,1,1006,5007
+458,3309,Green Beans Regular ,Non-Veg,1.79,1,1006,5006
+459,3310,Green Beans Large ,Veg,3.99,1,1006,5002
+460,3311,Biscuit 1 Pc. ,Veg,0.79,1,1006,5001
+461,3312,Biscuits 6 Pc. ,Non-Veg,3.99,1,1006,5003
+462,3313,Biscuits 12 Pc. ,Veg,6.99,1,1006,5005
+463,3314,Jalapeno 1 Pc. ,Veg,0.49,1,1006,5006
+464,3315,Jalapeno 6 Pc. ,Veg,1.95,1,1006,5003
+472,3316,Mild Tender 1 Pc. ,Non-Veg,3.39,1,1006,5005
+473,3317,Nuggets 4 Pc. ,Non-Veg,3.39,1,1006,5001
+474,3318,Mild Leg 1 Pc. ,Veg,3.39,1,1006,5003
+475,3319,Hot Cinnamon Apple Pie ,Non-Veg,1.29,1,1006,5005
+476,3320,4 Sandwiches ,Non-Veg,19.8,1,1006,5001
+477,3321,Big Family Feast ,Non-Veg,35.2,1,1006,5001
+478,3322,Bigger Family Feast ,Non-Veg,60.0,1,1006,5005
+479,3323,Raspberry Cheesecake Fried Pie ,Veg,1.2,1,1006,5006
+480,3324,Chocolate Beignets 3 Pc. ,Non-Veg,1.99,1,1006,5005
+481,3325,Ghost Pepper Wings Combo 6 Pc. ,Veg,7.19,1,1006,5002
+482,3326,Ghost Pepper Wings Combo 12 Pc. ,Non-Veg,11.19,1,1006,5007
+483,3327,Ghost Pepper Wings Dinner 6 Pc. ,Non-Veg,8.39,1,1006,5005
+484,3328,Ghost Pepper Wings Dinner 12 Pc. ,Non-Veg,13.19,1,1006,5002
+485,3329,ShackBurger Single ,Non-Veg,5.29,1,1007,5001
+486,3330,ShackBurger Double ,Veg,8.09,1,1007,5001
+487,3331,SmokeShack Single ,Non-Veg,6.84,1,1007,5005
+488,3332,SmokeShack Double ,Veg,9.64,1,1007,5007
+489,3333,âShroom Burger (Vegetarian) ,Non-Veg,6.99,1,1007,5007
+490,3334,Shack Shack ,Veg,9.59,1,1007,5006
+491,3335,Hamburger Single ,Veg,4.29,1,1007,5003
+492,3336,Hamburger Double ,Non-Veg,6.59,1,1007,5001
+493,3337,Add Bacon ,Non-Veg,1.55,1,1007,5004
+494,3338,Chickân Shack ,Veg,6.29,1,1007,5004
+495,3339,Shack-cago Dog ,Non-Veg,4.25,1,1007,5004
+496,3340,Hot Dog ,Non-Veg,3.25,1,1007,5001
+497,3341,Chicken Dog ,Veg,4.5,1,1007,5005
+498,3342,Fries ,Veg,2.99,1,1007,5005
+499,3343,Cheese Fries ,Veg,3.99,1,1007,5006
+500,3344,"Shakes â Vanilla, Chocolate, Caramel, Black & White, Strawberry, Peanut Butter or Coffee Fair Shake ",Non-Veg,5.29,1,1007,5003
+501,3345,Make It Malted ,Non-Veg,0.5,1,1007,5004
+502,3346,Add Whipped Cream ,Veg,0.5,1,1007,5003
+503,3347,Shake of The Week ,Veg,5.59,1,1007,5003
+504,3348,"Floats â Root Beer, Purple Cow or Creamsicle ",Veg,5.29,1,1007,5001
+505,3349,Cup or Cone Single Dip ,Veg,3.59,1,1007,5006
+506,3350,Cup or Cone Double Dip ,Veg,4.59,1,1007,5003
+507,3351,Pint To Go ,Veg,5.99,1,1007,5007
+508,3352,Concretes Single ,Non-Veg,4.59,1,1007,5005
+509,3353,Concretes Double ,Non-Veg,6.79,1,1007,5004
+510,3354,Design Your Own Concrete Single ,Veg,3.59,1,1007,5005
+511,3355,Design Your Own Concrete Double ,Veg,4.79,1,1007,5006
+512,3356,Mix-Ins ,Non-Veg,0.6,1,1007,5005
+532,3357,Pooch-Ini ,Non-Veg,3.99,1,1007,5002
+533,3358,Bag Oâ Bones 5 Pc. ,Veg,7.99,1,1007,5006
+534,3359,Hand Tossed Small (10â³) ,Non-Veg,5.99,1,1008,5003
+535,3360,Hand Tossed Medium (12â³) ,Veg,7.99,1,1008,5007
+536,3361,Hand Tossed Large (14â³) ,Non-Veg,9.99,1,1008,5006
+537,3362,Handmade Pan Medium (12â³) ,Veg,7.99,1,1008,5004
+538,3363,Crunchy Thin Crust Small (10â³) ,Veg,5.99,1,1008,5003
+539,3364,Crunchy Thin Crust Medium (12â³) ,Veg,7.99,1,1008,5005
+540,3365,Crunchy Thin Crust Large (14â³) ,Veg,9.99,1,1008,5004
+541,3366,Brooklyn Style Large (14â³) ,Veg,9.99,1,1008,5006
+542,3367,Brooklyn Style X-Large (16â³) ,Non-Veg,11.99,1,1008,5006
+543,3368,Gluten Free Crust Small (10â³) ,Veg,8.99,1,1008,5002
+544,3369,Spinach & Feta (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5005
+545,3370,"Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5006
+546,3371,"Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5001
+547,3372,Spinach & Feta (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5005
+548,3373,Spinach & Feta (Gluten Free Crust) Small (10â³) ,Non-Veg,14.99,1,1008,5005
+549,3374,Wisconsin 6 Cheese (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5004
+550,3375,"Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5002
+551,3376,"Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Non-Veg,15.99,1,1008,5005
+552,3377,Wisconsin 6 Cheese (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5005
+553,3378,Wisconsin 6 Cheese (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5001
+554,3379,Honolulu Hawaiian (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5004
+555,3380,"Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5004
+556,3381,"Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5007
+557,3382,Honolulu Hawaiian (Brooklyn Style) X-Large (16â³) ,Non-Veg,17.99,1,1008,5006
+558,3383,Honolulu Hawaiian (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5003
+559,3384,Philly Cheese Steak (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5007
+560,3385,"Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Non-Veg,13.99,1,1008,5004
+561,3386,"Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5005
+562,3387,Philly Cheese Steak (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5004
+563,3388,Philly Cheese Steak (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5005
+564,3389,Pacific Veggie (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5001
+565,3390,"Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5004
+566,3391,"Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5006
+567,3392,Pacific Veggie (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5006
+568,3393,Pacific Veggie (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5006
+569,3394,Cali Chicken Bacon Ranchâ¢ (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5003
+570,3395,"Cali Chicken Bacon Ranchâ¢ (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5007
+571,3396,"Cali Chicken Bacon Ranchâ¢ (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Non-Veg,15.99,1,1008,5007
+572,3397,Cali Chicken Bacon Ranchâ¢ (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5005
+573,3398,Cali Chicken Bacon Ranchâ¢ (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5007
+574,3399,Fiery Hawaiianâ¢ (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5005
+575,3400,"Fiery Hawaiianâ¢ (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5005
+576,3401,"Fiery Hawaiianâ¢ (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5004
+577,3402,Fiery Hawaiianâ¢ (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5004
+578,3403,Fiery Hawaiianâ¢ (Gluten Free Crust) Small (10â³) ,Non-Veg,14.99,1,1008,5005
+579,3404,Buffalo Chicken (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5003
+580,3405,"Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5003
+581,3406,"Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5002
+582,3407,Buffalo Chicken (Brooklyn Style) X-Large (16â³) ,Non-Veg,17.99,1,1008,5004
+583,3408,Buffalo Chicken (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5005
+584,3409,Memphis BBQ Chicken (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5001
+585,3410,"Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5003
+586,3411,"Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Non-Veg,15.99,1,1008,5002
+587,3412,Memphis BBQ Chicken (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5002
+588,3413,Memphis BBQ Chicken (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5005
+589,3414,Americaâs Favorite FeastÂ® (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5004
+590,3415,Americaâs Favorite FeastÂ® (Hand Tossed or Thin Crust) Medium (12â³) ,Veg,13.99,1,1008,5004
+591,3416,Americaâs Favorite FeastÂ® (Handmade Pan) Medium (12â³) ,Veg,15.49,1,1008,5004
+592,3417,"Americaâs Favorite FeastÂ® (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5001
+593,3418,Americaâs Favorite FeastÂ® (Brooklyn Style) X-Large (16â³) ,Non-Veg,17.99,1,1008,5004
+594,3419,Americaâs Favorite FeastÂ® (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5001
+595,3420,Bacon Cheeseburger FeastÂ® (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5003
+596,3421,Bacon Cheeseburger FeastÂ® (Hand Tossed or Thin Crust) Medium (12â³) ,Non-Veg,13.99,1,1008,5003
+597,3422,Bacon Cheeseburger FeastÂ® (Handmade Pan) Medium (12â³) ,Veg,15.49,1,1008,5001
+598,3423,"Bacon Cheeseburger FeastÂ® (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Non-Veg,15.99,1,1008,5003
+599,3424,Bacon Cheeseburger FeastÂ® (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5001
+600,3425,Bacon Cheeseburger FeastÂ® (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5004
+601,3426,Deluxe FeastÂ® (Hand Tossed or Thin Crust) Small (10â³) ,Veg,11.99,1,1008,5004
+602,3427,Deluxe FeastÂ® (Hand Tossed or Thin Crust) Medium (12â³) ,Veg,13.99,1,1008,5002
+603,3428,Deluxe FeastÂ® (Handmade Pan) Medium (12â³) ,Non-Veg,15.49,1,1008,5002
+604,3429,"Deluxe FeastÂ® (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Non-Veg,15.99,1,1008,5007
+605,3430,Deluxe FeastÂ® (Brooklyn Style) X-Large (16â³) ,Non-Veg,17.99,1,1008,5003
+606,3431,Deluxe FeastÂ® (Gluten Free Crust) Small (10â³) ,Non-Veg,14.99,1,1008,5004
+607,3432,ExtravaganZZa FeastÂ® (Hand Tossed or Thin Crust) Small (10â³) ,Veg,11.99,1,1008,5007
+608,3433,"ExtravaganZZa FeastÂ® (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5003
+609,3434,"ExtravaganZZa FeastÂ® (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5004
+610,3435,ExtravaganZZa FeastÂ® (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5002
+611,3436,ExtravaganZZa FeastÂ® (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5003
+612,3437,MeatZZa FeastÂ® (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5005
+613,3438,"MeatZZa FeastÂ® (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5007
+614,3439,"MeatZZa FeastÂ® (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Non-Veg,15.99,1,1008,5003
+615,3440,MeatZZa FeastÂ® (Brooklyn Style) X-Large (16â³) ,Veg,17.99,1,1008,5006
+616,3441,MeatZZa FeastÂ® (Gluten Free Crust) Small (10â³) ,Non-Veg,14.99,1,1008,5005
+617,3442,Ultimate Pepperoni Feastâ¢ (Hand Tossed or Thin Crust) Small (10â³) ,Non-Veg,11.99,1,1008,5005
+618,3443,"Ultimate Pepperoni Feastâ¢ (Hand Tossed, Handmade Pan or Thin Crust) Medium (12â³) ",Veg,13.99,1,1008,5004
+619,3444,"Ultimate Pepperoni Feastâ¢ (Hand Tossed, Thin Crust or Brooklyn Style) Large (14â³) ",Veg,15.99,1,1008,5004
+620,3445,Ultimate Pepperoni Feastâ¢ (Brooklyn Style) X-Large (16â³) ,Non-Veg,17.99,1,1008,5004
+621,3446,Ultimate Pepperoni Feastâ¢ (Gluten Free Crust) Small (10â³) ,Veg,14.99,1,1008,5001
+622,3447,Boneless Chicken 8 Pc. ,Non-Veg,5.99,1,1008,5006
+623,3448,Boneless Chicken 14 Pc. ,Veg,9.99,1,1008,5006
+624,3449,Boneless Chicken 40 Pc. ,Veg,25.99,1,1008,5007
+625,3450,Wings 8 Pc. ,Veg,6.49,1,1008,5005
+626,3451,Wings 14 Pc. ,Veg,10.99,1,1008,5004
+627,3452,Wings 40 Pc. ,Non-Veg,25.99,1,1008,5005
+628,3453,Specialty Chicken â Crispy Bacon & Tomato 12 Pc. ,Non-Veg,5.99,1,1008,5001
+629,3454,Specialty Chicken â Classic Hot Buffalo 12 Pc. ,Non-Veg,5.99,1,1008,5002
+630,3455,Specialty Chicken â Spicy Jalapeno â Pineapple 12 Pc. ,Non-Veg,5.99,1,1008,5002
+631,3456,Specialty Chicken â Sweet BBQ Bacon 12 Pc. ,Veg,5.99,1,1008,5007
+632,3457,Italian Sausage & Peppers ,Non-Veg,5.99,1,1008,5003
+633,3458,Buffalo Chicken ,Non-Veg,5.99,1,1008,5007
+634,3459,Chicken Habanero ,Non-Veg,5.99,1,1008,5002
+635,3460,Mediterranean Veggie ,Non-Veg,5.99,1,1008,5001
+636,3461,Philly Cheese Steak ,Non-Veg,5.99,1,1008,5005
+637,3462,Chicken Bacon Ranch ,Non-Veg,5.99,1,1008,5006
+638,3463,Italian ,Veg,5.99,1,1008,5005
+639,3464,Chicken Parm ,Non-Veg,5.99,1,1008,5003
+640,3465,Chicken Alfredo (Dish) ,Non-Veg,5.99,1,1008,5007
+641,3466,Chicken Alfredo (Bread Bowl) ,Veg,6.99,1,1008,5007
+642,3467,Italian Sausage Marinara (Dish) ,Veg,5.99,1,1008,5003
+643,3468,Italian Sausage Marinara (Bread Bowl) ,Non-Veg,6.99,1,1008,5001
+644,3469,Chicken Carbonara (Dish) ,Non-Veg,6.99,1,1008,5007
+645,3470,Chicken Carbonara (Bread Bowl) ,Veg,7.99,1,1008,5002
+646,3471,Pasta Primavera (Dish) ,Veg,6.99,1,1008,5002
+647,3472,Pasta Primavera (Bread Bowl) ,Non-Veg,7.99,1,1008,5003
+648,3473,Build Your Own Pasta (Dish) ,Veg,6.99,1,1008,5007
+649,3474,Build Your Own Pasta (Bread Bowl) ,Veg,7.99,1,1008,5007
+650,3475,Stuffed Cheesy Bread 8 Pc. ,Non-Veg,5.99,1,1008,5003
+651,3476,Stuffed Cheesy Bread with Spinach & Feta 8 Pc. ,Non-Veg,5.99,1,1008,5001
+652,3477,Stuffed Cheesy Bread with Bacon & Jalapeno 8 Pc. ,Non-Veg,5.99,1,1008,5003
+653,3478,Parmesan Bread Bites 16 Pc. ,Non-Veg,2.99,1,1008,5004
+654,3479,Parmesan Bread Bites 32 Pc. ,Non-Veg,5.0,1,1008,5005
+655,3480,Breadsticks 8 Pc. ,Veg,4.99,1,1008,5002
+656,3481,Classic Garden Salad ,Veg,6.49,1,1008,5001
+657,3482,Chicken Apple Pecan Salad ,Non-Veg,6.49,1,1008,5004
+658,3483,Chicken Caesar Salad ,Veg,6.49,1,1008,5005
+659,3484,LayâsÂ® Classic Potato Chips ,Non-Veg,0.75,1,1008,5006
+660,3485,DoritosÂ® Nacho Cheese Tortilla Chips ,Veg,0.75,1,1008,5004
+673,3486,Dominoâs Marbled Cookie Brownie 9 Pc. ,Veg,6.49,1,1008,5007
+674,3487,Cinna StixÂ® 8 Pc. ,Veg,4.99,1,1008,5007
+675,3488,Chocolate Lava Crunch Cake 2 Pc. ,Veg,4.99,1,1008,5001
+676,3489,Kicker Hot Sauce Cup ,Veg,0.59,1,1008,5005
+677,3490,Sweet Mango Habanero Sauce Cup ,Non-Veg,0.59,1,1008,5004
+678,3491,BBQ Sauce Cup ,Non-Veg,0.59,1,1008,5002
+679,3492,Ranch Cup ,Non-Veg,0.59,1,1008,5007
+680,3493,Blue Cheese Cup ,Veg,0.59,1,1008,5005
+681,3494,Garlic Dipping Sauce Cup ,Veg,0.59,1,1008,5003
+682,3495,Icing Dipping Sauce Cup ,Veg,0.59,1,1008,5004
+683,3496,Marinara Dipping Sauce Cup ,Veg,0.59,1,1008,5002
+684,3497,Creamy Caesar Dressing Bag ,Non-Veg,0.59,1,1008,5005
+685,3498,Golden Italian Dressing Bag ,Veg,0.59,1,1008,5004
+686,3499,Garden Ranch Bag ,Non-Veg,0.59,1,1008,5001
+687,3500,Fat-Free Raspberry or Balsamic Vinaigrette Bag ,Veg,0.59,1,1008,5006
+688,3501,Red Pepper Seasoning Flakes ,Veg,0.99,1,1008,5006
+689,3502,Grated Parmesan Cheese ,Non-Veg,0.99,1,1008,5006
+690,3503,2 Pc. Chicken â Combo ,Veg,5.99,1,1009,5003
+691,3504,Popcorn Nuggets â Combo ,Non-Veg,5.49,1,1009,5005
+692,3505,2 Chicken Littles â Combo ,Non-Veg,5.29,1,1009,5004
+693,3506,Go Large Combo ,Non-Veg,1.5,1,1009,5006
+694,3507,"1 Pc. Basket (Chicken Breast, Coleslaw & Biscuit) ",Non-Veg,5.49,1,1009,5005
+695,3508,"2 Pc. Basket (Drumstick & Thigh, Coleslaw & Biscuit) ",Non-Veg,5.49,1,1009,5001
+696,3509,"8 Pc. Meal (8 Pc. Chicken, Large Mashed Potatoes & Gravy, Large Coleslaw & 4 Biscuits) ",Non-Veg,21.99,1,1009,5007
+697,3510,"3 Pc. Basket (3 Tenders, Coleslaw & Biscuit) ",Veg,5.49,1,1009,5001
+698,3511,"12 Pc. Meal (12 Tenders, Large Mashed Potatoes & Gravy, Large Coleslaw & 4 Biscuits) ",Veg,21.99,1,1009,5001
+699,3512,24 Pc. Tailgate Meal (24 Tenders) ,Non-Veg,29.99,1,1009,5002
+700,3513,Chicken Tenders 3 Pc. ,Non-Veg,3.99,1,1009,5002
+701,3514,Chicken Tenders 6 Pc. ,Veg,6.99,1,1009,5002
+702,3515,Chicken Tenders 12 Pc. ,Non-Veg,12.99,1,1009,5007
+703,3516,Chicken Tenders â Combo 3 Pc. ,Veg,5.99,1,1009,5003
+704,3517,Kentucky Fried Wings 6 Pc. ,Veg,5.0,1,1009,5003
+705,3518,Kentucky Fried Wings 12 Pc. ,Non-Veg,9.99,1,1009,5005
+706,3519,Kentucky Fried Wings 24 Pc. ,Non-Veg,18.99,1,1009,5005
+707,3520,Kentucky Fried Wings 48 Pc. ,Non-Veg,36.99,1,1009,5006
+708,3521,Popcorn Nuggets Large ,Non-Veg,3.99,1,1009,5007
+709,3522,"Drumstick, 1 Chicken Little, 1 Tender, or Popcorn Nuggets, and Individual Side, and Applesauce, or Small Drink ",Veg,3.99,1,1009,5002
+710,3523,8 Pc. Meal with 2 Large Sides & 4 Biscuits ,Non-Veg,21.99,1,1009,5002
+711,3524,8 Pc. Chicken Only ,Veg,14.99,1,1009,5003
+712,3525,12 Pc. Meal with 3 Large Sides & 6 Biscuits ,Non-Veg,29.99,1,1009,5005
+713,3526,12 Pc. Chicken Only ,Veg,20.49,1,1009,5007
+714,3527,16 Pc. Meal with 4 Large Sides & 8 Biscuits ,Veg,36.99,1,1009,5004
+715,3528,16 Pc. Chicken Only ,Non-Veg,24.99,1,1009,5001
+716,3529,"Tenders Meal (12 Pc. Tenders, 2 Large Sides, 4 Biscuits & 6 Sauces) ",Veg,19.99,1,1009,5002
+717,3530,Chicken Sandwich ,Veg,1.75,1,1009,5003
+718,3531,Mashed Potatoes Individual ,Veg,1.99,1,1009,5007
+719,3532,Mashed Potatoes Large ,Non-Veg,3.79,1,1009,5001
+720,3533,Secret Recipe Fries Individual ,Non-Veg,2.49,1,1009,5003
+721,3534,Secret Recipe Fries Large ,Veg,4.49,1,1009,5006
+722,3535,Baked Beans Individual ,Non-Veg,1.99,1,1009,5004
+723,3536,Baked Beans Large ,Veg,3.79,1,1009,5003
+724,3537,Cole Slaw Individual ,Non-Veg,1.99,1,1009,5002
+725,3538,Cole Slaw Large ,Non-Veg,3.79,1,1009,5007
+726,3539,Sweet Kernel Corn Individual ,Veg,1.99,1,1009,5005
+727,3540,Sweet Kernel Corn Large ,Non-Veg,3.79,1,1009,5002
+728,3541,Green Beans Individual ,Non-Veg,1.99,1,1009,5004
+729,3542,Green Beans Large ,Non-Veg,3.79,1,1009,5004
+730,3543,Mac & Cheese Individual ,Non-Veg,1.99,1,1009,5007
+731,3544,Mac & Cheese Large ,Non-Veg,3.79,1,1009,5006
+732,3545,2 Biscuits ,Veg,1.49,1,1009,5002
+741,3546,"8 Pc. Chicken, 2 Large Mashed Potatoes, Large Gravy, Large Coleslaw & 4 Biscuits ",Veg,20.0,1,1009,5002
+742,3547,"2 Pc. Drum & Thigh, Mashed Potatoes with Gravy, Biscuit, Medium Drink & Chocolate Chip Cookie ",Veg,5.0,1,1009,5003
+743,3548,"3 Pc. Tenders, Mashed Potatoes with Gravy, Biscuit, Medium Drink & Chocolate Chip Cookie ",Non-Veg,5.0,1,1009,5007
+744,3549,"Chicken Breast, Mashed Potatoes with Gravy, Biscuit, Medium Drink & Chocolate Chip Cookie ",Veg,5.0,1,1009,5001
+745,3550,"Famous Bowl, Medium Drink & Chocolate Chip Cookie ",Veg,5.0,1,1009,5007
+746,3551,"Pot Pie, Medium Drink & Chocolate Chip Cookie ",Non-Veg,5.0,1,1009,5001
+747,3552,3 Pc. Chicken Box ,Veg,7.99,1,1009,5002
+748,3553,Crispy Colonel Combo with 2 Sides ,Veg,7.99,1,1009,5001
+749,3554,5 pc. Tenders with 2 Sides ,Non-Veg,7.99,1,1009,5003
+750,3555,Cakes ,Veg,3.99,1,1009,5005
+751,3556,Cookies 3 Pc. ,Non-Veg,1.29,1,1009,5006
+752,3557,Cookies 12 Pc. ,Non-Veg,4.49,1,1009,5002
+753,3558,KFC Famous Bowl ,Non-Veg,6.19,1,1009,5006
+754,3559,Pot Pie ,Veg,6.19,1,1009,5007
+755,3560,Tenders and Fries Meal ,Veg,5.49,1,1009,5006
+756,3561,Queso Burrito (Grilled Chicken or Vegetarian) ,Veg,7.8,1,1010,5005
+757,3562,Queso Burrito (Grilled Steak or Shredded Beef) ,Non-Veg,8.4,1,1010,5005
+758,3563,Queso Burrito (Ground Beef) ,Non-Veg,7.8,1,1010,5005
+759,3564,Queso Burrito (Pork) ,Veg,8.4,1,1010,5004
+760,3565,Mexican Gumbo (Grilled Chicken or Vegetarian) ,Non-Veg,7.8,1,1010,5001
+761,3566,Mexican Gumbo (Grilled Steak or Shredded Beef) ,Non-Veg,8.4,1,1010,5004
+762,3567,Mexican Gumbo (Ground Beef) ,Non-Veg,7.8,1,1010,5005
+763,3568,Mexican Gumbo (Pork) ,Veg,8.4,1,1010,5002
+764,3569,Smothered Burrito (Grilled Chicken or Vegetarian) ,Veg,7.8,1,1010,5005
+765,3570,Smothered Burrito (Grilled Steak or Shredded Beef) ,Veg,8.4,1,1010,5003
+766,3571,Smothered Burrito (Ground Beef) ,Veg,7.8,1,1010,5005
+767,3572,Smothered Burrito (Pork) ,Veg,8.4,1,1010,5001
+768,3573,"Choose Any Two: 3-Cheese Nachos, Naked Queso, Queso Diablo, Nachos Diablo, Mexican Gumbo, Two Tacos, Naked Burrito, Naked Taco Salad, Grilled Quesadilla, and Tortilla Soup ",Veg,8.4,1,1010,5004
+769,3574,Vegetarian (with Guacamole) ,Veg,7.8,1,1010,5006
+770,3575,Grilled Chicken ,Non-Veg,7.8,1,1010,5002
+771,3576,Grilled Steak ,Non-Veg,8.4,1,1010,5006
+772,3577,Shredded Beef ,Non-Veg,8.4,1,1010,5006
+773,3578,Ground Beef ,Non-Veg,7.8,1,1010,5007
+774,3579,Pork ,Non-Veg,8.4,1,1010,5001
+775,3580,Vegetarian ,Veg,7.8,1,1010,5005
+776,3581,Cheese (Cheddar & Monterey Jack) ,Non-Veg,7.8,1,1010,5002
+777,3582,Three Taco Combo ,Non-Veg,7.8,1,1010,5003
+778,3583,Kids Burrito Bowl ,Non-Veg,4.0,1,1010,5002
+779,3584,Kids Quesadilla ,Veg,4.0,1,1010,5004
+780,3585,Kids 3-Cheese Nachos ,Veg,4.0,1,1010,5002
+781,3586,Kids Taco ,Veg,4.0,1,1010,5003
+782,3587,Chips and Salsa Small ,Non-Veg,1.0,1,1010,5003
+783,3588,Chips and Salsa Regular ,Veg,2.0,1,1010,5002
+784,3589,Chips and 3-Cheese Queso ,Non-Veg,4.0,1,1010,5001
+785,3590,Chips and Queso Diablo ,Non-Veg,4.0,1,1010,5007
+786,3591,Chips and Guacamole ,Non-Veg,3.0,1,1010,5003
+787,3592,Tortilla Soup ,Veg,3.0,1,1010,5007
+788,3593,Guacamole ,Veg,2.0,1,1010,5002
+789,3594,3-Cheese Queso ,Non-Veg,1.5,1,1010,5005
+790,3595,Queso Diablo ,Non-Veg,1.5,1,1010,5005
+791,3596,Salsa ,Veg,0.7,1,1010,5004
+792,3597,Cheese ,Veg,0.7,1,1010,5003
+793,3598,Sour Cream ,Non-Veg,0.7,1,1010,5001
+798,3599,2 Donuts ,Non-Veg,3.69,1,1011,5002
+799,3600,Fudge Croissant Donut ,Veg,2.49,1,1011,5005
+800,3601,Bagel with Cream Cheese ,Veg,3.79,1,1011,5007
+801,3602,"Sausage, Egg & Cheese on a Croisssant â with Hash Browns ",Veg,5.89,1,1011,5006
+802,3603,"Bacon, Egg & Cheese on a Bagel â with Hash Browns ",Veg,5.89,1,1011,5006
+803,3604,Veggie Egg White Flatbread ,Non-Veg,4.59,1,1011,5007
+804,3605,"Ham, Egg & Cheese on an English Muffin â with Hash Browns ",Non-Veg,5.89,1,1011,5004
+805,3606,Big nâ Toasted â with Hash Browns ,Veg,6.29,1,1011,5002
+806,3607,"Wake-Up Wrap (Bacon, Ham, or Sausage) ",Veg,3.09,1,1011,5002
+807,3608,Turkey Sausage Flatbread with Hash Browns ,Non-Veg,5.79,1,1011,5002
+808,3609,Snack Nâ Go Chicken Wrap ,Non-Veg,3.29,1,1011,5005
+809,3610,Snack Nâ Go Steak Wrap ,Veg,3.29,1,1011,5006
+810,3611,Ham & Cheese Flatbread â with Hash Browns ,Veg,5.59,1,1011,5007
+811,3612,Deluxe Grilled Cheese (Ham or Bacon) â with Hash Browns ,Non-Veg,5.79,1,1011,5003
+812,3613,"Turkey, Cheddar & Bacon Flatbread â with Hash Browns ",Veg,5.99,1,1011,5002
+813,3614,Chicken Salad or Tuna Salad Sandwich â with Hash Browns ,Non-Veg,5.39,1,1011,5007
+814,3615,Chicken Bacon Sandwich â with Hash Browns ,Veg,5.99,1,1011,5007
+815,3616,Classic Egg & Cheese ,Non-Veg,2.59,1,1011,5004
+816,3617,"Classic Egg & Cheese with (Ham, Bacon, or Sausage) ",Veg,3.59,1,1011,5007
+817,3618,Egg White Omelet (Veggie) ,Non-Veg,2.99,1,1011,5003
+818,3619,"Egg White Omelet with (Ham, Bacon, or Sausage) ",Veg,3.99,1,1011,5001
+819,3620,Egg & Cheese Wrap ,Non-Veg,1.19,1,1011,5003
+820,3621,"Egg & Cheese Wrap with (Ham, Bacon, or Sausage) ",Non-Veg,1.39,1,1011,5006
+821,3622,Angus Steak and Egg Wrap (Limited Time) ,Veg,1.99,1,1011,5001
+822,3623,Angus Steak and Egg Sandwich (Limited Time) ,Veg,3.99,1,1011,5006
+823,3624,Angus Steak and Egg Sandwich with Hash Browns & Medium Hot Coffee (Limited Time) ,Veg,6.19,1,1011,5002
+824,3625,Oatmeal with Medium Coffee ,Non-Veg,3.89,1,1011,5004
+825,3626,Turkey Sausage Wrap ,Veg,1.39,1,1011,5004
+826,3627,Turkey Sausage Sandwich ,Non-Veg,3.49,1,1011,5002
+827,3628,Turkey Sausage Flatbread with Hash Browns & Medium Hot Coffee ,Non-Veg,5.79,1,1011,5007
+828,3629,Chicken Apple Sausage Breakfast Sandwich (Limited Time) ,Veg,3.69,1,1011,5005
+829,3630,Chicken Apple Sausage Breakfast Sandwich with Hash Browns & Medium Hot Coffee (Limited Time) ,Non-Veg,6.09,1,1011,5001
+830,3631,Donut 1 Pc. ,Non-Veg,0.99,1,1011,5007
+831,3632,Donuts 1/2 Dozen ,Veg,5.79,1,1011,5007
+832,3633,Donuts Dozen ,Non-Veg,9.99,1,1011,5001
+833,3634,Muffin 1 Pc. ,Veg,1.69,1,1011,5002
+834,3635,Muffins 4 Pc. ,Veg,5.99,1,1011,5005
+835,3636,Bagel 1 Pc. ,Non-Veg,0.99,1,1011,5005
+836,3637,Bagels 1/2 Dozen ,Non-Veg,5.79,1,1011,5003
+837,3638,Bagel with Cream Cheese 1 Pc. ,Veg,2.09,1,1011,5005
+838,3639,Munchkins 25 Pc. ,Veg,6.29,1,1011,5001
+839,3640,Munchkins 50 Pc. ,Veg,9.99,1,1011,5003
+840,3641,Hash Brown ,Non-Veg,1.29,1,1011,5005
+841,3642,Croissant ,Non-Veg,1.49,1,1011,5006
+842,3643,Fancy ,Non-Veg,1.29,1,1011,5003
+843,3644,Coffee Roll ,Non-Veg,1.29,1,1011,5003
+901,3645,"Turkey, Cheddar & Bacon Sandwich ",Non-Veg,3.69,1,1011,5003
+902,3646,Ham & Cheese Sandwich ,Non-Veg,3.69,1,1011,5006
+903,3647,Chicken Salad ,Veg,3.49,1,1011,5001
+904,3648,Tune Salad ,Non-Veg,3.49,1,1011,5005
+905,3649,Texas Toast Grilled Cheese ,Non-Veg,2.99,1,1011,5003
+906,3650,Chicken Biscuit ,Non-Veg,2.99,1,1011,5007
+907,3651,Build Your Own Pizza ,Veg,8.45,1,1012,5002
+908,3652,1 Top Pizza ,Non-Veg,6.75,1,1012,5003
+909,3653,Simple Pie Pizza ,Veg,5.55,1,1012,5002
+910,3654,Meat Eater Pizza ,Veg,8.45,1,1012,5007
+911,3655,BBQ Chicken Pizza ,Veg,8.45,1,1012,5002
+912,3656,Green Stripe Pizza ,Non-Veg,8.45,1,1012,5004
+913,3657,Art Lover Pizza ,Veg,8.45,1,1012,5001
+914,3658,Red Vine Pizza ,Non-Veg,8.45,1,1012,5003
+915,3659,Veg Out Pizza ,Non-Veg,8.45,1,1012,5001
+916,3660,Link In Pizza ,Veg,8.45,1,1012,5004
+917,3661,White Top Pizza ,Veg,8.45,1,1012,5006
+918,3662,Caesar (Side Salad) ,Veg,3.95,1,1012,5001
+919,3663,"Tomato, Basil & Ovalini (Side Salad) ",Veg,3.95,1,1012,5005
+920,3664,Roasted Veggie & Gorgonzola (Side Salad) ,Veg,3.95,1,1012,5001
+921,3665,Beet & Goat Cheese (Side Salad) ,Non-Veg,3.95,1,1012,5001
+922,3666,Antipasto (Entree Salad) ,Non-Veg,7.25,1,1012,5003
+923,3667,Chicken Caesar (Entree Salad) ,Non-Veg,7.25,1,1012,5005
+924,3668,Sâmore Pie ,Veg,2.0,1,1012,5002
+974,3669,Frontega Chicken Whole ,Non-Veg,7.99,1,1013,5005
+975,3670,Frontega Chicken Half ,Non-Veg,5.79,1,1013,5004
+976,3671,Steak & White Cheddar Whole ,Non-Veg,8.99,1,1013,5006
+977,3672,Steak & White Cheddar Half ,Veg,6.29,1,1013,5006
+978,3673,Roasted Turkey & Avocado BLT Whole ,Veg,8.99,1,1013,5007
+979,3674,Roasted Turkey & Avocado BLT Half ,Non-Veg,6.29,1,1013,5001
+980,3675,Roasted Turkey & Caramelized Kale Whole ,Veg,9.29,1,1013,5004
+981,3676,Roasted Turkey & Caramelized Kale Half ,Veg,6.59,1,1013,5006
+982,3677,Bacon Turkey Bravo Whole ,Veg,7.99,1,1013,5002
+983,3678,Bacon Turkey Bravo Half ,Veg,5.79,1,1013,5004
+984,3679,Napa Almond Chicken Salad Whole ,Non-Veg,7.39,1,1013,5001
+985,3680,Napa Almond Chicken Salad Half ,Non-Veg,5.39,1,1013,5001
+986,3681,Italian Combo Whole ,Non-Veg,8.59,1,1013,5004
+987,3682,Italian Combo Half ,Veg,6.09,1,1013,5005
+988,3683,Steak & Arugula Whole ,Non-Veg,8.99,1,1013,5004
+989,3684,Steak & Arugula Half ,Non-Veg,6.29,1,1013,5004
+990,3685,Sierra Turkey Whole ,Veg,7.39,1,1013,5005
+991,3686,Sierra Turkey Half ,Veg,5.39,1,1013,5005
+992,3687,Smoked Turkey Breast Whole ,Veg,6.59,1,1013,5004
+993,3688,Smoked Turkey Breast Half ,Veg,4.89,1,1013,5001
+994,3689,Mediterranean Veggie Whole ,Veg,6.59,1,1013,5001
+995,3690,Mediterranean Veggie Half ,Non-Veg,4.89,1,1013,5006
+996,3691,Classic Grilled Cheese Whole ,Veg,6.59,1,1013,5005
+997,3692,Classic Grilled Cheese Half ,Non-Veg,4.89,1,1013,5003
+998,3693,Tuna Salad Whole ,Veg,6.59,1,1013,5005
+999,3694,Tuna Salad Half ,Non-Veg,4.89,1,1013,5003
+1000,3695,Smoked Ham & Swiss Whole ,Veg,6.59,1,1013,5004
+1001,3696,Smoked Ham & Swiss Half ,Veg,4.89,1,1013,5001
+1002,3697,Thai Garden Chicken Wonton Broth Bowl ,Non-Veg,8.99,1,1013,5005
+1003,3698,Ricotta Sacchettini with Chicken Broth Bowl ,Veg,8.99,1,1013,5002
+1004,3699,Lentil Quinoa Bowl with Chicken ,Veg,8.99,1,1013,5003
+1005,3700,Lentil Quinoa Bowl with Cage-Free Egg ,Non-Veg,8.49,1,1013,5001
+1006,3701,Chicken Tortellini Alfredo ,Veg,8.39,1,1013,5005
+1007,3702,Butternut Squash Ravioli ,Veg,8.19,1,1013,5007
+1008,3703,Pasta Primavera ,Non-Veg,8.19,1,1013,5007
+1009,3704,Pesto Sacchettini Pasta ,Veg,7.19,1,1013,5005
+1010,3705,Tortellini Alfredo Pasta ,Non-Veg,7.39,1,1013,5001
+1011,3706,Pesto Sacchettini or Tortellini Alfredo Pasta â Meal ,Non-Veg,10.18,1,1013,5004
+1012,3707,"Chicken Tortellini Alfredo, Butternut Squash Ravioli or Pasta Primavera â Meal ",Veg,11.18,1,1013,5002
+1013,3708,Mac & Cheese Small ,Veg,4.99,1,1013,5006
+1014,3709,Mac & Cheese Large ,Non-Veg,7.99,1,1013,5003
+1015,3710,Mac & Cheese Bread Bowl ,Non-Veg,5.99,1,1013,5005
+1016,3711,Tomato Mozzarella Flatbread ,Veg,4.99,1,1013,5002
+1017,3712,"Chicken, Ham & Swiss Flatbread ",Veg,5.99,1,1013,5006
+1018,3713,Roasted Turkey Cranberry Flatbread ,Non-Veg,5.99,1,1013,5002
+1019,3714,Southwestern Chicken Flatbread ,Non-Veg,4.99,1,1013,5001
+1020,3715,Tomato Mozzarella or Southwestern Chicken Flatbreads 2 Pc. ,Veg,7.79,1,1013,5003
+1021,3716,"Chicken, Ham & Swiss or Roasted Turkey Cranberry Flatbreads 2 Pc. ",Veg,8.59,1,1013,5002
+1022,3717,Chinese Citrus Cashew Salad with Chicken Whole ,Veg,9.29,1,1013,5006
+1023,3718,Chinese Citrus Salad with Chicken Half ,Non-Veg,6.39,1,1013,5004
+1024,3719,Power Kale Chicken Caesar Salad Whole ,Veg,8.99,1,1013,5003
+1025,3720,Power Kale Chicken Caesar Salad Half ,Veg,6.29,1,1013,5007
+1026,3721,Classic Cafe Salad Whole ,Veg,6.29,1,1013,5006
+1027,3722,Classic Cafe Salad Half ,Veg,4.69,1,1013,5001
+1028,3723,Green Goddess Cobb with Chicken Salad Whole ,Non-Veg,9.29,1,1013,5007
+1029,3724,Green Goddess Cobb with Chicken Salad Half ,Non-Veg,6.39,1,1013,5002
+1030,3725,Caesar Salad Whole ,Non-Veg,6.29,1,1013,5002
+1031,3726,Caesar Salad Half ,Non-Veg,4.69,1,1013,5001
+1032,3727,BBQ Chicken Salad Whole ,Veg,8.59,1,1013,5007
+1033,3728,BBQ Chicken Salad Half ,Non-Veg,6.09,1,1013,5001
+1034,3729,Thai Chicken Salad Whole ,Veg,8.99,1,1013,5004
+1035,3730,Thai Chicken Salad Half ,Veg,6.29,1,1013,5007
+1036,3731,Watermelon Feta Salad with Almonds & Chicken Whole ,Veg,9.29,1,1013,5001
+1037,3732,Watermelon Feta Salad with Almonds & Chicken Half ,Non-Veg,6.39,1,1013,5004
+1038,3733,Fuji Apple Chicken Salad Whole ,Veg,8.99,1,1013,5005
+1039,3734,Fuji Apple Chicken Salad Half ,Veg,6.29,1,1013,5007
+1040,3735,Chicken Caesar Salad Whole ,Veg,8.99,1,1013,5003
+1041,3736,Chicken Caesar Salad Half ,Veg,6.29,1,1013,5007
+1042,3737,Modern Greek Salad with Almonds & Quinoa Whole ,Non-Veg,8.59,1,1013,5005
+1043,3738,Modern Greek Salad with Almonds & Quinoa Half ,Non-Veg,6.09,1,1013,5003
+1044,3739,Classic with Chicken Salad Whole ,Non-Veg,7.99,1,1013,5006
+1045,3740,Classic with Chicken Salad Half ,Veg,5.79,1,1013,5006
+1046,3741,Chicken Cobb Salad Whole ,Non-Veg,8.49,1,1013,5003
+1047,3742,Chicken Cobb Salad Half ,Veg,5.99,1,1013,5003
+1048,3743,Vegetarian Creamy Tomato Soup Cup ,Non-Veg,4.39,1,1013,5006
+1049,3744,Vegetarian Creamy Tomato Soup Bowl ,Non-Veg,5.29,1,1013,5004
+1050,3745,Vegetarian Creamy Tomato Soup Bread Bowl ,Veg,5.49,1,1013,5001
+1051,3746,Broccoli Cheddar Soup Cup ,Veg,4.39,1,1013,5003
+1052,3747,Broccoli Cheddar Soup Bowl ,Veg,5.29,1,1013,5004
+1053,3748,Broccoli Cheddar Soup Bread Bowl ,Non-Veg,5.49,1,1013,5001
+1054,3749,All Natural Low-Fat Chicken Noodle Soup Cup ,Veg,4.39,1,1013,5002
+1055,3750,All Natural Low-Fat Chicken Noodle Soup Bowl ,Veg,5.29,1,1013,5006
+1056,3751,All Natural Low-Fat Chicken Noodle Soup Bread Bowl ,Veg,5.49,1,1013,5006
+1057,3752,All-Natural Turkey Chili Cup ,Veg,4.99,1,1013,5004
+1058,3753,All-Natural Turkey Chili Bowl ,Non-Veg,5.99,1,1013,5004
+1059,3754,All-Natural Turkey Chili Bread Bowl ,Veg,6.19,1,1013,5005
+1060,3755,Bistro French Onion Soup Cup ,Non-Veg,4.39,1,1013,5006
+1061,3756,Bistro French Onion Soup Bowl ,Veg,5.29,1,1013,5003
+1062,3757,Bistro French Onion Soup Bread Bowl ,Non-Veg,5.49,1,1013,5001
+1063,3758,Baked Potato Soup Cup ,Veg,4.39,1,1013,5004
+1064,3759,Baked Potato Soup Bowl ,Veg,5.29,1,1013,5002
+1065,3760,Baked Potato Soup Bread Bowl ,Non-Veg,5.49,1,1013,5003
+1066,3761,Low-Fat Garden Vegetable Soup Cup ,Non-Veg,4.39,1,1013,5001
+1067,3762,Low-Fat Garden Vegetable Soup Bowl ,Veg,5.29,1,1013,5003
+1068,3763,Low-Fat Garden Vegetable Soup Bread Bowl ,Veg,5.49,1,1013,5001
+1069,3764,Vegetarian Creamy Tomato Soup ,Veg,12.99,1,1013,5003
+1070,3765,Broccoli Cheddar Soup ,Non-Veg,12.99,1,1013,5002
+1071,3766,All Natural Low-Fat Chicken Noodle Soup ,Veg,12.99,1,1013,5003
+1072,3767,All-Natural Turkey Chili ,Non-Veg,18.99,1,1013,5005
+1073,3768,Bistro French Onion Soup ,Veg,12.99,1,1013,5007
+1074,3769,Baked Potato Soup ,Non-Veg,12.99,1,1013,5004
+1075,3770,Low-Fat Garden Vegetable Soup ,Non-Veg,12.99,1,1013,5005
+1076,3771,Kidâs Peanut Butter & Jelly Sandwich ,Veg,4.29,1,1013,5005
+1077,3772,Kidâs Grilled Cheese ,Non-Veg,4.29,1,1013,5006
+1078,3773,Kidâs Smoked Turkey Sandwich ,Non-Veg,4.29,1,1013,5002
+1079,3774,Kidâs Smoked Ham Sandwich ,Non-Veg,4.29,1,1013,5005
+1080,3775,Kidâs Caesar Salad ,Veg,4.69,1,1013,5005
+1081,3776,Kidâs Classic Cafe Salad ,Veg,4.69,1,1013,5004
+1082,3777,Signature Mac & Cheese Kidâs Meal ,Non-Veg,4.99,1,1013,5004
+1083,3778,Kidâs Broccoli Cheddar Soup ,Veg,4.39,1,1013,5007
+1084,3779,Kidâs All Natural Low-Fat Chicken Noodle Soup ,Veg,4.39,1,1013,5007
+1085,3780,Kidâs Vegetarian Creamy Tomato Soup ,Non-Veg,4.39,1,1013,5006
+1086,3781,Kidâs Turkey Chili ,Non-Veg,4.99,1,1013,5007
+1087,3782,Kids Bistro French Onion Soup ,Veg,4.39,1,1013,5003
+1088,3783,Kids Baked Potato Soup ,Non-Veg,4.39,1,1013,5007
+1089,3784,Kids Low-Fat Garden Vegetable Soup ,Veg,4.39,1,1013,5002
+1147,3785,Cinnamon Crunch Bagel 1 Pc. ,Veg,1.34,1,1013,5006
+1148,3786,Asiago Bagel 1 Pc. ,Non-Veg,1.34,1,1013,5001
+1149,3787,Plain Bagel 1 Pc. ,Non-Veg,1.05,1,1013,5003
+1150,3788,Blueberry Bagel 1 Pc. ,Non-Veg,1.34,1,1013,5006
+1151,3789,Everything Bagel 1 Pc. ,Veg,1.05,1,1013,5006
+1152,3790,Whole Grain Bagel 1 Pc. ,Non-Veg,1.05,1,1013,5007
+1153,3791,Sprouted Grain Bagel Flat 1 Pc. ,Veg,1.05,1,1013,5005
+1154,3792,Sesame Bagel 1 Pc. ,Non-Veg,1.05,1,1013,5005
+1155,3793,Chocolate Chip Bagel 1 Pc. ,Non-Veg,1.34,1,1013,5004
+1156,3794,Cinnamon Swirl Bagel 1 Pc. ,Non-Veg,1.34,1,1013,5004
+1157,3795,French Toast Bagel 1 Pc. ,Non-Veg,1.34,1,1013,5001
+1158,3796,Pumpkin Pie Bagel (Limited Time) 1 Pc. ,Veg,1.34,1,1013,5003
+1159,3797,Bagel Pack (Bagels & 2 Tubs Of Cream Cheese Spread) 13 Pc. ,Non-Veg,13.99,1,1013,5005
+1160,3798,Bakerâs Dozen 13 Pc. ,Non-Veg,9.99,1,1013,5001
+1161,3799,Half Dozen Bagels 6 Pc. ,Veg,6.25,1,1013,5001
+1162,3800,Dozen & Half Bagels 18 Pc. ,Veg,12.99,1,1013,5004
+1163,3801,Plain Cream Cheese 2 oz. ,Veg,1.25,1,1013,5003
+1164,3802,Plain Cream Cheese Tub ,Non-Veg,2.99,1,1013,5006
+1165,3803,Reduced Fat Cream Cheese 2 oz. ,Veg,1.25,1,1013,5007
+1166,3804,Reduced Fat Cream Cheese Tub ,Non-Veg,2.99,1,1013,5005
+1167,3805,Hazelnut Cream Cheese 2 oz. ,Veg,1.25,1,1013,5007
+1168,3806,Hazelnut Cream Cheese Tub ,Veg,2.99,1,1013,5002
+1169,3807,Chive and Onion Cream Cheese 2 oz. ,Veg,1.25,1,1013,5002
+1170,3808,Chive and Onion Cream Cheese Tub ,Non-Veg,2.99,1,1013,5005
+1171,3809,Reduced-Fat Roasted Veg 2 oz. ,Non-Veg,1.25,1,1013,5005
+1172,3810,Reduced-Fat Roasted Veg Tub ,Non-Veg,2.99,1,1013,5002
+1173,3811,Wild Blueberry Cream Cheese 2 oz. ,Non-Veg,1.25,1,1013,5002
+1174,3812,Wild Blueberry Cream Cheese Tub ,Non-Veg,2.99,1,1013,5007
+1175,3813,Honey Walnut Cream Cheese 2 oz. ,Non-Veg,1.25,1,1013,5006
+1176,3814,Honey Walnut Cream Cheese Tub ,Non-Veg,2.99,1,1013,5003
+1177,3815,Peanut Butter 2 oz. ,Non-Veg,0.8,1,1013,5004
+1178,3816,Preserves 2 oz. ,Non-Veg,0.5,1,1013,5003
+1179,3817,Fruit Cup ,Veg,2.69,1,1013,5001
+1180,3818,Strawberry Parfait ,Non-Veg,3.89,1,1013,5004
+1181,3819,Oatmeal with Fresh Strawberries & Pecans ,Non-Veg,4.29,1,1013,5003
+1182,3820,Honey Almond Greek Yogurt Parfait ,Veg,2.99,1,1013,5002
+1183,3821,Cinnamon Roll 1 Pc. ,Non-Veg,2.89,1,1013,5001
+1184,3822,Bear Claw 1 Pc. ,Veg,2.69,1,1013,5006
+1185,3823,Gooey Butter Pastry 1 Pc. ,Non-Veg,2.69,1,1013,5003
+1186,3824,Cobblestone 1 Pc. ,Veg,2.69,1,1013,5005
+1187,3825,Pecan Braid 1 Pc. ,Non-Veg,2.69,1,1013,5006
+1188,3826,Chocolate Pastry 1 Pc. ,Veg,2.69,1,1013,5007
+1189,3827,Cheese Pastry 1 Pc. ,Veg,2.69,1,1013,5005
+1190,3828,Pecan Roll 1 Pc. ,Veg,2.69,1,1013,5005
+1191,3829,Cherry Pastry 1 Pc. ,Non-Veg,2.69,1,1013,5007
+1192,3830,Pastry Ring ,Non-Veg,8.79,1,1013,5007
+1193,3831,Butter Croissant 1 Pc. ,Veg,2.39,1,1013,5001
+1194,3832,Carrot Cake with Walnuts 1 Pc. ,Non-Veg,2.69,1,1013,5003
+1195,3833,Cinnamon Crumb Coffee Cake Slice ,Non-Veg,2.69,1,1013,5004
+1196,3834,Cinnamon Crumb Coffee Cake Whole ,Non-Veg,15.49,1,1013,5001
+1197,3835,Tulip Cookie 1 Pc. ,Non-Veg,2.59,1,1013,5006
+1198,3836,Chocolate Chipper Cookie 1 Pc. ,Veg,2.09,1,1013,5004
+1199,3837,Gluten-Conscious Monster Cookie with Nuts 1 Pc. ,Non-Veg,2.39,1,1013,5006
+1200,3838,Gluten-Conscious Triple Chocolate Cookie 1 Pc. ,Veg,2.39,1,1013,5002
+1201,3839,Oatmeal Raisin Cookie 1 Pc. ,Veg,2.09,1,1013,5003
+1202,3840,Candy Cookie 1 Pc. ,Non-Veg,2.09,1,1013,5002
+1203,3841,Shortbread Cookie 1 Pc. ,Veg,2.09,1,1013,5007
+1204,3842,Petite Cookies 12 Pc. ,Non-Veg,4.99,1,1013,5006
+1205,3843,Chocolate Brownie 1 Pc ,Veg,2.59,1,1013,5002
+1206,3844,Apple Crunch Muffin 1 Pc. ,Non-Veg,2.29,1,1013,5005
+1207,3845,Chocolate Chip Muffie 1 Pc. ,Non-Veg,1.69,1,1013,5003
+1208,3846,Pumpkin Muffin 1 Pc. ,Non-Veg,2.29,1,1013,5005
+1209,3847,Pumpkin Muffie 1 Pc. ,Non-Veg,1.69,1,1013,5005
+1210,3848,Blueberry Muffin with Fresh Blueberries 1 Pc. ,Veg,2.49,1,1013,5007
+1211,3849,Cranberry Orange Muffin 1 Pc. ,Non-Veg,2.29,1,1013,5001
+1212,3850,Cinnamon Crunch Scone 1 Pc. ,Non-Veg,2.59,1,1013,5007
+1213,3851,Orange Scone 1 Pc. ,Non-Veg,2.59,1,1013,5007
+1214,3852,Triple Berry Scone 1 Pc. ,Non-Veg,2.59,1,1013,5006
+1215,3853,Wild Blueberry Scone 1 Pc. ,Veg,2.59,1,1013,5007
+1216,3854,Mini Scone Variety Pack 9 Pc. ,Veg,6.99,1,1013,5001
+1217,3855,Cinnamon Raisin Swirl Loaf ,Non-Veg,4.79,1,1013,5007
+1218,3856,French Baguette ,Non-Veg,3.09,1,1013,5002
+1219,3857,Asiago Cheese Loaf ,Non-Veg,4.59,1,1013,5001
+1220,3858,All Natural White Bread Loaf ,Non-Veg,3.79,1,1013,5002
+1221,3859,All Natural White Bread Miche ,Non-Veg,7.79,1,1013,5004
+1222,3860,Sourdough Bread Bowl ,Veg,1.99,1,1013,5004
+1223,3861,Sourdough Loaf ,Veg,3.79,1,1013,5004
+1224,3862,Sourdough Extra Large Loaf ,Veg,4.99,1,1013,5003
+1225,3863,Whole Grain Loaf ,Veg,3.79,1,1013,5003
+1226,3864,Whole Grain Miche ,Veg,7.79,1,1013,5001
+1227,3865,Honey Wheat Loaf ,Veg,3.79,1,1013,5002
+1228,3866,Tomato Basil Loaf ,Non-Veg,5.29,1,1013,5002
+1229,3867,Country Loaf ,Veg,3.79,1,1013,5003
+1230,3868,Country Miche ,Veg,7.79,1,1013,5005
+1231,3869,Rye Loaf ,Veg,3.79,1,1013,5003
+1232,3870,Rye Miche ,Non-Veg,7.79,1,1013,5005
+1233,3871,Ciabatta Loaf ,Non-Veg,3.19,1,1013,5004
+1234,3872,Sesame Semolina Bread Loaf ,Non-Veg,3.69,1,1013,5003
+1235,3873,Sesame Semolina Bread Miche ,Veg,7.79,1,1013,5002
+1236,3874,Focaccia Bread With Asiago Cheese Loaf ,Non-Veg,3.39,1,1013,5007
+1237,3875,Sea Salt Focaccia Loaf ,Non-Veg,3.19,1,1013,5001
+1238,3876,Soft Dinner Roll ,Veg,0.75,1,1013,5005
+1239,3877,Sprouted Whole Grain Roll ,Veg,0.99,1,1013,5004
+1240,3878,Sourdough Bread Bowl 2-Pack ,Veg,3.49,1,1013,5004
+1241,3879,Sprouted Grain Rolls 6-Pack ,Veg,3.99,1,1013,5004
+1242,3880,Soft Dinner Rolls 6-Pack ,Veg,2.99,1,1013,5006
+1243,3881,Apple ,Veg,0.99,1,1013,5007
+1244,3882,Banana ,Non-Veg,0.99,1,1013,5001
+1245,3883,Chips ,Non-Veg,0.85,1,1013,5006
+1246,3884,Baked Chips ,Non-Veg,0.99,1,1013,5006
+1247,3885,French Baguette Portion ,Veg,0.75,1,1013,5002
+1248,3886,Blueberry or Strawberry Squeezable Yogurt ,Non-Veg,1.25,1,1013,5006
+1249,3887,Chips & Homemade Queso ,Veg,4.79,1,1014,5006
+1250,3888,Santa Fe Spinach Dip ,Veg,5.79,1,1014,5001
+1251,3889,Cheddarâs Cheese Fries Small ,Non-Veg,5.79,1,1014,5001
+1252,3890,Cheddarâs Cheese Fries Regular ,Non-Veg,7.29,1,1014,5001
+1253,3891,Chicken Tender Basket ,Veg,7.29,1,1014,5004
+1254,3892,Loaded Russet Potato Skins ,Veg,7.49,1,1014,5001
+1255,3893,Chicken Fajita Quesadilla ,Veg,8.79,1,1014,5007
+1256,3894,Ultimate Nachos ,Non-Veg,8.79,1,1014,5002
+1257,3895,Homemade Onion Rings ,Veg,5.29,1,1014,5005
+1258,3896,Wisconsin Cheese Bites ,Non-Veg,6.99,1,1014,5003
+1259,3897,Triple Treat Sampler ,Veg,9.29,1,1014,5007
+1260,3898,Homemade Chicken Tortilla Soup Cup ,Non-Veg,3.29,1,1014,5006
+1261,3899,Homemade Chicken Tortilla Soup Bowl ,Non-Veg,4.49,1,1014,5005
+1262,3900,Homemade Baked Potato Soup Cup ,Veg,3.29,1,1014,5003
+1263,3901,Homemade Baked Potato Soup Bowl ,Veg,4.49,1,1014,5003
+1264,3902,Choice of Half-Sandwich & 1 Pairing ,Non-Veg,6.79,1,1014,5007
+1265,3903,Choice of Half-Sandwich & 2 Pairings ,Non-Veg,7.79,1,1014,5007
+1266,3904,The Original ,Non-Veg,5.99,1,1014,5004
+1267,3905,Bacon Cheeseburger ,Non-Veg,7.99,1,1014,5005
+1268,3906,SmokeHouse Burger ,Non-Veg,6.99,1,1014,5003
+1269,3907,Chicken Caesar Pasta Salad ,Veg,8.49,1,1014,5001
+1270,3908,Crispy Chicken Salad ,Veg,8.79,1,1014,5006
+1271,3909,Grilled Chicken Pecan Salad ,Veg,8.79,1,1014,5007
+1272,3910,Signature Shrimp & Chicken Salad ,Veg,10.29,1,1014,5006
+1273,3911,Maple Bacon Chicken Sandwich ,Non-Veg,8.29,1,1014,5005
+1274,3912,Buffalo Chicken Wrapper ,Veg,8.49,1,1014,5006
+1275,3913,Cheddarâs Club ,Veg,7.99,1,1014,5003
+1276,3914,Monte Cristo ,Non-Veg,8.49,1,1014,5003
+1277,3915,Philly Cheesesteak ,Non-Veg,8.49,1,1014,5002
+1278,3916,Chicken Fried Steak ,Veg,9.29,1,1014,5001
+1279,3917,New Orleans Pasta ,Non-Veg,10.79,1,1014,5001
+1280,3918,Vegetable Plate ,Veg,7.49,1,1014,5004
+1281,3919,Key West Chicken & Shrimp ,Non-Veg,9.99,1,1014,5003
+1282,3920,Gigiâs Baked Spasagna ,Veg,9.49,1,1014,5004
+1283,3921,6oz. Top Sirloin ,Veg,9.99,1,1014,5005
+1284,3922,8oz. Top Sirloin ,Non-Veg,11.49,1,1014,5006
+1285,3923,12oz Ribeye ,Non-Veg,14.99,1,1014,5007
+1286,3924,20oz Bone-in Ribeye ,Non-Veg,19.99,1,1014,5006
+1287,3925,Half Rack ,Non-Veg,10.99,1,1014,5002
+1288,3926,Full Rack ,Veg,15.79,1,1014,5006
+1289,3927,Chicken Tenders & Shrimp ,Veg,10.79,1,1014,5003
+1290,3928,Top Sirloin Steak & Chicken Tenders ,Non-Veg,13.49,1,1014,5002
+1291,3929,Top Sirloin Steak & Ribs ,Veg,14.79,1,1014,5003
+1292,3930,Half Rack of Ribs & Shrimp ,Veg,14.49,1,1014,5004
+1293,3931,BBQ Chicken & Half Rack of Ribs ,Veg,13.99,1,1014,5005
+1294,3932,Top Sirloin Steak & Shrimp ,Veg,13.99,1,1014,5007
+1295,3933,Half Rack of Ribs & Chicken Tenders ,Non-Veg,14.29,1,1014,5006
+1296,3934,Lemon Pepper Whitefish ,Non-Veg,8.29,1,1014,5003
+1297,3935,Grilled Baja Chicken ,Veg,8.79,1,1014,5007
+1298,3936,Citrus Miso Glazed Salmon ,Non-Veg,8.99,1,1014,5003
+1299,3937,Sweet Heat Chicken & Shrimp ,Non-Veg,8.99,1,1014,5006
+1300,3938,Chicken Tender Platter ,Veg,8.99,1,1014,5002
+1301,3939,BBQ Chicken Platter ,Non-Veg,8.99,1,1014,5002
+1302,3940,Homemade Chicken Pot Pie ,Non-Veg,7.79,1,1014,5004
+1303,3941,Dijon Chicken & Mushrooms ,Non-Veg,9.79,1,1014,5001
+1304,3942,Lemon Pepper Chicken ,Veg,8.99,1,1014,5005
+1305,3943,Grilled Chicken Alfredo ,Non-Veg,9.49,1,1014,5006
+1306,3944,Country Chicken Fried Chicken ,Veg,10.49,1,1014,5002
+1307,3945,Blackened Redfish W/ Crab Sauce ,Veg,14.29,1,1014,5005
+1308,3946,Grilled Salmon ,Veg,10.99,1,1014,5007
+1309,3947,Cornmeal Catfish ,Non-Veg,9.79,1,1014,5005
+1310,3948,Grilled Catfish ,Non-Veg,9.79,1,1014,5002
+1311,3949,Grilled Tilapia & Shrimp with Mango Salsa ,Veg,9.99,1,1014,5001
+1312,3950,Beer Battered Fried Shrimp ,Veg,10.79,1,1014,5004
+1313,3951,Fish Tacos ,Veg,7.79,1,1014,5002
+1314,3952,"Steamed Fresh Broccoli, Homemade Black Beans, Buttered Off-The-Cob Corn, Mac & Cheese, Freshly Made Coleslaw, Seasoned Rice, French Fries, Broccoli Cheese Casserole, Mashed Potatoes, Red Beans & Rice, Loaded Baked Potato, & Southern Green Beans ",Non-Veg,2.49,1,1014,5002
+1315,3953,House or Caesar Salad ,Non-Veg,3.79,1,1014,5004
+1316,3954,Honey Butter Croissants 3 Croissants ,Non-Veg,2.99,1,1014,5005
+1317,3955,Grilled Cheese ,Non-Veg,4.99,1,1014,5003
+1318,3956,Chicken Tenders ,Veg,4.99,1,1014,5001
+1319,3957,Junior Burger ,Non-Veg,4.99,1,1014,5004
+1320,3958,Mac & Cheese ,Veg,4.99,1,1014,5003
+1321,3959,Penne Pasta Marinara ,Non-Veg,4.99,1,1014,5005
+1322,3960,Grilled Chicken ,Non-Veg,4.99,1,1014,5002
+1323,3961,Dessert Minis Each ,Veg,1.49,1,1014,5004
+1324,3962,Dessert Minis Trio ,Non-Veg,3.99,1,1014,5002
+1325,3963,Hot Fudge Cake Sundae ,Non-Veg,5.49,1,1014,5007
+1326,3964,Cheddarâs Legendary Monster Cookie ,Veg,4.99,1,1014,5004
+1327,3965,Apple Crisp A La Mode ,Veg,4.99,1,1014,5004
+1328,3966,Whopper ,Veg,4.19,1,1015,5007
+1329,3967,Whopper â Meal ,Non-Veg,6.49,1,1015,5007
+1330,3968,Double Whopper ,Non-Veg,5.29,1,1015,5005
+1331,3969,Double Whopper â Meal ,Non-Veg,7.59,1,1015,5004
+1332,3970,Whopper Jr. ,Non-Veg,2.19,1,1015,5001
+1333,3971,Whopper Jr. â Meal ,Non-Veg,5.29,1,1015,5003
+1334,3972,Impossible Whopper ,Veg,7.29,1,1015,5006
+1335,3973,Crispy Chicken Sandwich ,Veg,4.99,1,1015,5004
+1336,3974,Crispy Chicken Sandwich â Meal ,Non-Veg,7.49,1,1015,5003
+1337,3975,Spicy Crispy Chicken Sandwich â Meal ,Veg,9.19,1,1015,5006
+1338,3976,Spicy Crispy Chicken Sandwich ,Non-Veg,5.69,1,1015,5005
+1339,3977,Big Fish Sandwich ,Non-Veg,3.99,1,1015,5007
+1340,3978,Big Fish Sandwich â Meal ,Non-Veg,6.39,1,1015,5007
+1341,3979,Chicken Nuggets â Meal 10 Pc. ,Veg,5.99,1,1015,5001
+1342,3980,Spicy Chicken Nuggets 10 Pc. ,Non-Veg,1.69,1,1015,5006
+1343,3981,Chicken Fries 9 Pc. ,Non-Veg,6.79,1,1015,5004
+1344,3982,Bacon Cheeseburger ,Non-Veg,1.49,1,1015,5005
+1345,3983,Bacon Double Cheeseburger ,Veg,2.29,1,1015,5007
+1346,3984,Bacon Cheeseburger Deluxe ,Veg,1.69,1,1015,5004
+1347,3985,Double Cheeseburger ,Veg,1.69,1,1015,5001
+1348,3986,French Fries Value ,Non-Veg,1.39,1,1015,5006
+1349,3987,Onion Rings Value ,Non-Veg,1.39,1,1015,5007
+1350,3988,Fountain Drink 16 oz. ,Non-Veg,1.29,1,1015,5003
+1351,3989,Icee 12 oz. ,Non-Veg,1.19,1,1015,5003
+1352,3990,Hamburger ,Veg,1.0,1,1015,5001
+1353,3991,Cheeseburger ,Veg,1.0,1,1015,5002
+1354,3992,Crispy Chicken Jr. ,Veg,1.0,1,1015,5001
+1355,3993,Spicy Crispy Chicken Jr. ,Non-Veg,1.0,1,1015,5003
+1356,3994,Rodeo Crispy Chicken ,Veg,1.0,1,1015,5006
+1357,3995,Rodeo Burger ,Non-Veg,1.0,1,1015,5007
+1358,3996,Chicken Nuggets 4 Pc. ,Non-Veg,1.19,1,1015,5005
+1359,3997,Cookies 2 Pc. ,Non-Veg,1.0,1,1015,5006
+1360,3998,Soft Serve (Cup or Cone) ,Non-Veg,1.0,1,1015,5006
+1361,3999,Apple Pie ,Non-Veg,1.49,1,1015,5004
+1362,4000,Hersheyâs Sundae Pie ,Non-Veg,1.69,1,1015,5007
+1363,4001,Jalepeno Chedddar Bites 8 Pc. ,Non-Veg,2.29,1,1015,5002
+1364,4002,Jalepeno Cheddar Bites 4 Pc. ,Non-Veg,1.09,1,1015,5006
+1365,4003,Onion Rings Small ,Non-Veg,1.79,1,1015,5005
+1366,4004,Onion Rings Medium ,Non-Veg,2.19,1,1015,5006
+1367,4005,Onion Rings Large ,Non-Veg,2.39,1,1015,5002
+1368,4006,French Fries Small ,Non-Veg,1.79,1,1015,5005
+1369,4007,French Fries Medium ,Veg,2.19,1,1015,5007
+1370,4008,French Fries Large ,Non-Veg,2.39,1,1015,5005
+1371,4009,Crispy Chicken Garden Salad ,Non-Veg,7.09,1,1015,5007
+1372,4010,Crispy Chicken Club Salad ,Non-Veg,7.09,1,1015,5007
+1373,4011,Garden Grilled Chicken Salad ,Veg,5.59,1,1015,5003
+1374,4012,Side Salad (Garden) ,Veg,1.99,1,1015,5006
+1375,4013,MorningStar Veggie Burger ,Veg,3.29,1,1015,5002
+1376,4014,MorningStar Veggie Burger â Meal ,Veg,5.49,1,1015,5005
+1377,4015,Sundae (Caramel or Chocolate Fudge) ,Non-Veg,1.59,1,1015,5001
+1378,4016,Soft Serve (Cone or Cup) ,Veg,1.0,1,1015,5001
+1379,4017,Cinnamon Roll 1 Pc. ,Veg,1.59,1,1015,5001
+1380,4018,Cinnamon Rolls 2 Pc. ,Veg,2.89,1,1015,5003
+1381,4019,French Toast Sticks 3 Pc. ,Veg,1.0,1,1015,5006
+1382,4020,French Toast Sticks 5 Pc. ,Non-Veg,1.99,1,1015,5005
+1383,4021,"Hand-Spun Shakes (Vanilla, Strawberry, or Chocolate) Small ",Veg,2.49,1,1015,5004
+1384,4022,"Hand-Spun Shakes (Vanilla, Strawberry, or Chocolate) Medium ",Veg,3.09,1,1015,5007
+1385,4023,"Hand-Spun Shakes (Vanilla, Strawberry, or Chocolate) Large ",Non-Veg,3.59,1,1015,5007
+1410,4024,Hamburger â Meal ,Veg,3.99,1,1015,5005
+1411,4025,Cheeseburger â Meal ,Non-Veg,3.99,1,1015,5005
+1412,4026,Double Cheeseburger â Meal ,Veg,4.99,1,1015,5001
+1413,4027,Chicken Nuggets â Meal 4 Pc. ,Non-Veg,3.99,1,1015,5006
+1414,4028,Chicken Nuggets â Meal 6 Pc. ,Veg,4.99,1,1015,5001

@@ -1,0 +1,342 @@
+,drink_id,drink_name,drink_type,drink_price,menu_id,restaurant_id
+22,4001,Coca Cola Products Regular ,Drinks,2.39,2,1001
+23,4002,Coca Cola Products Large ,Drinks,2.69,2,1001
+24,4003,Dasani Bottled Water ,Drinks,2.09,2,1001
+130,4004,Coffee ,Drinks,1.29,2,1002
+131,4005,Fountain Drinks 20 oz ,Drinks,1.89,2,1002
+132,4006,Fountain Drinks 30 oz ,Drinks,1.99,2,1002
+133,4007,Fountain Drinks 40 oz ,Drinks,2.19,2,1002
+134,4008,Dasani Water ,Drinks,2.19,2,1002
+135,4009,X2 All Natural Energy Raspberry ,Drinks,2.49,2,1002
+136,4010,Gatorade Lemon Lime ,Drinks,2.19,2,1002
+137,4011,Honest Kids ,Drinks,1.19,2,1002
+138,4012,Gatorade Fruit Punch ,Drinks,2.19,2,1002
+139,4013,X2 All Natural Energy Strawberry Kiwi ,Drinks,2.49,2,1002
+140,4014,X2 All Natural Energy Fruit Punch ,Drinks,2.49,2,1002
+141,4015,Cool Blue ,Drinks,2.19,2,1002
+142,4016,Bottled Beverage ,Drinks,2.19,2,1002
+143,4017,1% Low Fat Milk ,Drinks,1.79,2,1002
+144,4018,Juices ,Drinks,1.99,2,1002
+187,4019,"Shake (Chocolate, Vanilla, or Strawberry) Small ",Desserts & Shakes,2.19,2,1003
+188,4020,"Shake (Chocolate, Vanilla, or Strawberry) Medium ",Desserts & Shakes,2.59,2,1003
+189,4021,"Shake (Chocolate, Vanilla, or Strawberry) Large ",Desserts & Shakes,2.99,2,1003
+190,4022,Sundae (Hot Fudge or Caramel) ,Desserts & Shakes,1.29,2,1003
+191,4023,Cone (Vanilla) ,Desserts & Shakes,1.0,2,1003
+192,4024,McFlurry Snack ,Desserts & Shakes,1.79,2,1003
+193,4025,McFlurry Regular ,Desserts & Shakes,2.39,2,1003
+198,4026,Soft Drink Small ,$1 $2 $3 Menu,1.0,2,1003
+199,4027,Specialty McCafÃ©Â® beverages Small ,$1 $2 $3 Menu,2.0,2,1003
+203,4028,Shamrock Shake Small ,Limited Time Offers,2.19,2,1003
+204,4029,Shamrock Shake Medium ,Limited Time Offers,2.59,2,1003
+205,4030,Shamrock Shake Large ,Limited Time Offers,2.99,2,1003
+207,4031,Frozen Strawberry Lemonade Medium ,Limited Time Offers,2.59,2,1003
+209,4032,Cherry Berry Chiller Small ,Limited Time Offers,1.69,2,1003
+210,4033,Cherry Berry Chiller Medium ,Limited Time Offers,1.99,2,1003
+211,4034,Cherry Berry Chiller Large ,Limited Time Offers,2.29,2,1003
+212,4035,Caffe Latte Tall ,"Espresso, Coffee & Tea",2.95,2,1004
+213,4036,Caffe Latte Grande ,"Espresso, Coffee & Tea",3.65,2,1004
+214,4037,Caffe Latte Venti ,"Espresso, Coffee & Tea",4.15,2,1004
+215,4038,Caffe Mocha Tall ,"Espresso, Coffee & Tea",3.45,2,1004
+216,4039,Caffe Mocha Grande ,"Espresso, Coffee & Tea",4.15,2,1004
+217,4040,Caffe Mocha Venti ,"Espresso, Coffee & Tea",4.65,2,1004
+218,4041,White Chocolate Mocha Tall ,"Espresso, Coffee & Tea",3.75,2,1004
+219,4042,White Chocolate Mocha Grande ,"Espresso, Coffee & Tea",4.45,2,1004
+220,4043,White Chocolate Mocha Venti ,"Espresso, Coffee & Tea",4.75,2,1004
+221,4044,Freshly Brewed Coffee Tall ,"Espresso, Coffee & Tea",1.85,2,1004
+222,4045,Freshly Brewed Coffee Grande ,"Espresso, Coffee & Tea",2.1,2,1004
+223,4046,Freshly Brewed Coffee Venti ,"Espresso, Coffee & Tea",2.45,2,1004
+224,4047,Cinnamon Dolce Latte Tall ,"Espresso, Coffee & Tea",3.65,2,1004
+225,4048,Cinnamon Dolce Latte Grande ,"Espresso, Coffee & Tea",4.25,2,1004
+226,4049,Cinnamon Dolce Latte Venti ,"Espresso, Coffee & Tea",4.65,2,1004
+227,4050,Skinny Vanilla Latte Tall ,"Espresso, Coffee & Tea",3.45,2,1004
+228,4051,Skinny Vanilla Latte Grande ,"Espresso, Coffee & Tea",4.15,2,1004
+229,4052,Skinny Vanilla Latte Venti ,"Espresso, Coffee & Tea",4.65,2,1004
+230,4053,Caramel Macchiato Tall ,"Espresso, Coffee & Tea",3.75,2,1004
+231,4054,Caramel Macchiato Grande ,"Espresso, Coffee & Tea",4.45,2,1004
+232,4055,Caramel Macchiato Venti ,"Espresso, Coffee & Tea",4.75,2,1004
+233,4056,Caramel Flan Latte Tall ,"Espresso, Coffee & Tea",3.75,2,1004
+234,4057,Caramel Flan Latte Grande ,"Espresso, Coffee & Tea",4.55,2,1004
+235,4058,Caramel Flan Latte Venti ,"Espresso, Coffee & Tea",4.75,2,1004
+236,4059,TeavanaÂ® Oprah Cinnamon Chai Tea Latte Tall ,"Espresso, Coffee & Tea",3.65,2,1004
+237,4060,TeavanaÂ® Oprah Cinnamon Chai Tea Latte Grande ,"Espresso, Coffee & Tea",4.25,2,1004
+238,4061,TeavanaÂ® Oprah Cinnamon Chai Tea Latte Venti ,"Espresso, Coffee & Tea",4.65,2,1004
+239,4062,Flat White Tall ,"Espresso, Coffee & Tea",3.75,2,1004
+240,4063,Skinny Peppermint Mocha Tall ,"Espresso, Coffee & Tea",3.95,2,1004
+241,4064,Skinny Peppermint Mocha Grande ,"Espresso, Coffee & Tea",4.65,2,1004
+242,4065,Skinny Peppermint Mocha Venti ,"Espresso, Coffee & Tea",4.95,2,1004
+243,4066,Pumpkin Spice Latte (Limited Time) Tall ,"Espresso, Coffee & Tea",4.25,2,1004
+244,4067,Pumpkin Spice Latte (Limited Time) Grande ,"Espresso, Coffee & Tea",4.95,2,1004
+245,4068,Pumpkin Spice Latte (Limited Time) Venti ,"Espresso, Coffee & Tea",5.25,2,1004
+246,4069,Salted Caramel Mocha (Limited Time) Tall ,"Espresso, Coffee & Tea",4.25,2,1004
+247,4070,Salted Caramel Mocha (Limited Time) Grande ,"Espresso, Coffee & Tea",4.95,2,1004
+248,4071,Salted Caramel Mocha (Limited Time) Venti ,"Espresso, Coffee & Tea",5.25,2,1004
+249,4072,Toasted Graham Latte (Limited Time) Tall ,"Espresso, Coffee & Tea",4.25,2,1004
+250,4073,Toasted Graham Latte (Limited Time) Grande ,"Espresso, Coffee & Tea",4.95,2,1004
+251,4074,Toasted Graham Latte (Limited Time) Venti ,"Espresso, Coffee & Tea",5.25,2,1004
+252,4075,Iced Coffee (with or without Milk) Tall ,"Frappuccino, Refreshers & Iced Coffee",2.25,2,1004
+253,4076,Iced Coffee (with or without Milk) Grande ,"Frappuccino, Refreshers & Iced Coffee",2.65,2,1004
+254,4077,Iced Coffee (with or without Milk) Venti ,"Frappuccino, Refreshers & Iced Coffee",2.95,2,1004
+255,4078,Iced Coffee (with or without Milk) Trenta ,"Frappuccino, Refreshers & Iced Coffee",3.45,2,1004
+256,4079,Caramel Frappuccino Mini ,"Frappuccino, Refreshers & Iced Coffee",3.75,2,1004
+257,4080,Caramel Frappuccino Tall ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+258,4081,Caramel Frappuccino Grande ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+259,4082,Caramel Frappuccino Venti ,"Frappuccino, Refreshers & Iced Coffee",4.95,2,1004
+260,4083,Mocha Frappuccino Mini ,"Frappuccino, Refreshers & Iced Coffee",3.75,2,1004
+261,4084,Mocha Frappuccino Tall ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+262,4085,Mocha Frappuccino Grande ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+263,4086,Mocha Frappuccino Venti ,"Frappuccino, Refreshers & Iced Coffee",4.95,2,1004
+264,4087,Strawberries & Creme Frappuccino Mini ,"Frappuccino, Refreshers & Iced Coffee",3.75,2,1004
+265,4088,Strawberries & Creme Frappuccino Tall ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+266,4089,Strawberries & Creme Frappuccino Grande ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+267,4090,Strawberries & Creme Frappuccino Venti ,"Frappuccino, Refreshers & Iced Coffee",4.95,2,1004
+268,4091,Coffee Frappuccino Mini ,"Frappuccino, Refreshers & Iced Coffee",2.95,2,1004
+269,4092,Coffee Frappuccino Tall ,"Frappuccino, Refreshers & Iced Coffee",3.25,2,1004
+270,4093,Coffee Frappuccino Grande ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+271,4094,Coffee Frappuccino Venti ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+272,4095,Vanilla Bean CrÃ¨me Frappuccino Mini ,"Frappuccino, Refreshers & Iced Coffee",2.95,2,1004
+273,4096,Vanilla Bean CrÃ¨me Frappuccino Tall ,"Frappuccino, Refreshers & Iced Coffee",3.25,2,1004
+274,4097,Vanilla Bean CrÃ¨me Frappuccino Grande ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+275,4098,Vanilla Bean CrÃ¨me Frappuccino Venti ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+276,4099,Iced Caramel Macchiato Tall ,"Frappuccino, Refreshers & Iced Coffee",3.75,2,1004
+277,4100,Iced Caramel Macchiato Grande ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+278,4101,Iced Caramel Macchiato Venti ,"Frappuccino, Refreshers & Iced Coffee",4.95,2,1004
+279,4102,Salted Caramel Mocha Frappuccino (Limited Time) Tall ,"Frappuccino, Refreshers & Iced Coffee",4.25,2,1004
+280,4103,Salted Caramel Mocha Frappuccino (Limited Time) Grande ,"Frappuccino, Refreshers & Iced Coffee",4.95,2,1004
+281,4104,Salted Caramel Mocha Frappuccino (Limited Time) Venti ,"Frappuccino, Refreshers & Iced Coffee",5.25,2,1004
+282,4105,Cool Lime or Very Berry Starbucks Refreshersâ¢ Tall ,"Frappuccino, Refreshers & Iced Coffee",2.95,2,1004
+283,4106,Cool Lime or Very Berry Starbucks Refreshersâ¢ Grande ,"Frappuccino, Refreshers & Iced Coffee",3.45,2,1004
+284,4107,Cool Lime or Very Berry Starbucks Refreshersâ¢ Venti ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+285,4108,Cool Lime or Very Berry Starbucks Refreshersâ¢ Trenta ,"Frappuccino, Refreshers & Iced Coffee",4.45,2,1004
+286,4109,TeavanaÂ® Shaken Iced Tea Tall ,"Frappuccino, Refreshers & Iced Coffee",1.75,2,1004
+287,4110,TeavanaÂ® Shaken Iced Tea Grande ,"Frappuccino, Refreshers & Iced Coffee",2.25,2,1004
+288,4111,TeavanaÂ® Shaken Iced Tea Venti ,"Frappuccino, Refreshers & Iced Coffee",2.65,2,1004
+289,4112,TeavanaÂ® Shaken Iced Tea Trenta ,"Frappuccino, Refreshers & Iced Coffee",2.95,2,1004
+290,4113,TeavanaÂ® Shaken Iced Peach Green Tea Lemonade Tall ,"Frappuccino, Refreshers & Iced Coffee",2.75,2,1004
+291,4114,TeavanaÂ® Shaken Iced Peach Green Tea Lemonade Grande ,"Frappuccino, Refreshers & Iced Coffee",3.25,2,1004
+292,4115,TeavanaÂ® Shaken Iced Peach Green Tea Lemonade Venti ,"Frappuccino, Refreshers & Iced Coffee",3.75,2,1004
+293,4116,TeavanaÂ® Shaken Iced Peach Green Tea Lemonade Trenta ,"Frappuccino, Refreshers & Iced Coffee",4.25,2,1004
+294,4117,TeavanaÂ® Shaken Iced Black Tea Lemonade Tall ,"Frappuccino, Refreshers & Iced Coffee",2.45,2,1004
+295,4118,TeavanaÂ® Shaken Iced Black Tea Lemonade Grande ,"Frappuccino, Refreshers & Iced Coffee",2.95,2,1004
+296,4119,TeavanaÂ® Shaken Iced Black Tea Lemonade Venti ,"Frappuccino, Refreshers & Iced Coffee",3.45,2,1004
+297,4120,TeavanaÂ® Shaken Iced Black Tea Lemonade Trenta ,"Frappuccino, Refreshers & Iced Coffee",3.95,2,1004
+298,4121,Evolution Fresh Grande ,"Frappuccino, Refreshers & Iced Coffee",5.95,2,1004
+379,4122,Value Soft Drink ,Right Price Right Size Menu,0.99,2,1005
+380,4123,Small Frosty ,Right Price Right Size Menu,0.99,2,1005
+395,4124,Soft Drink or Freshly Brewed Iced Tea Small ,Drinks,1.69,2,1005
+396,4125,Soft Drink or Freshly Brewed Iced Tea Medium ,Drinks,1.89,2,1005
+397,4126,Soft Drink or Freshly Brewed Iced Tea Large ,Drinks,2.19,2,1005
+398,4127,Nestle Bottled Water ,Drinks,1.59,2,1005
+399,4128,Trumoo Milk 1% Low-Fat (White or Chocolate) ,Drinks,1.29,2,1005
+400,4129,Hot Coffee (Regular or Decaf) Regular ,Redhead Roadsters,0.99,2,1005
+401,4130,Hot Coffee (Regular or Decaf) Large ,Redhead Roadsters,1.49,2,1005
+402,4131,"Iced Coffee (Vanilla, Caramel, Mocha, or Skinny Vanilla) Small ",Redhead Roadsters,1.79,2,1005
+403,4132,"Iced Coffee (Vanilla, Caramel, Mocha, or Skinny Vanilla) Medium ",Redhead Roadsters,2.49,2,1005
+404,4133,Premium Hot Tea Regular ,Redhead Roadsters,0.99,2,1005
+405,4134,Espresso Chip Bar ,Fresh-Baked Favorites,1.39,2,1005
+406,4135,Oatmeal Bar ,Fresh-Baked Favorites,1.39,2,1005
+407,4136,Sugar Cookie ,Fresh-Baked Favorites,1.39,2,1005
+408,4137,Chocolate Chunk Cookie ,Fresh-Baked Favorites,1.39,2,1005
+409,4138,Double Chocolate Chip Cookie ,Fresh-Baked Favorites,1.39,2,1005
+410,4139,Classic Frosty (Chocolate or Vanilla) Small ,"Thick, Rich Frosty",0.99,2,1005
+411,4140,Classic Frosty (Chocolate or Vanilla) Medium ,"Thick, Rich Frosty",1.99,2,1005
+412,4141,Classic Frosty (Chocolate or Vanilla) Large ,"Thick, Rich Frosty",2.29,2,1005
+413,4142,All-Natural Lemonade Small ,Signature Beverages,1.99,2,1005
+414,4143,All-Natural Lemonade Medium ,Signature Beverages,2.29,2,1005
+415,4144,All-Natural Lemonade Large ,Signature Beverages,2.69,2,1005
+416,4145,Strawberry Lemonade Small ,Signature Beverages,2.29,2,1005
+417,4146,Strawberry Lemonade Medium ,Signature Beverages,2.69,2,1005
+418,4147,Strawberry Lemonade Large ,Signature Beverages,3.19,2,1005
+419,4148,Honest Tropical Green Tea Small ,Signature Beverages,1.99,2,1005
+420,4149,Honest Tropical Green Tea Medium ,Signature Beverages,2.29,2,1005
+421,4150,Honest Tropical Green Tea Large ,Signature Beverages,2.69,2,1005
+465,4151,Soft Drink Small ,Drinks,1.99,2,1006
+466,4152,Soft Drink Medium ,Drinks,2.29,2,1006
+467,4153,Soft Drink Large ,Drinks,2.59,2,1006
+468,4154,Iced Tea 1/2 Gallon ,Drinks,2.99,2,1006
+469,4155,Iced Tea 1 Gallon ,Drinks,4.99,2,1006
+470,4156,Lemonade or Fruit Punch 1/2 Gallon ,Drinks,2.99,2,1006
+471,4157,Lemonade or Fruit Punch 1 Gallon ,Drinks,4.99,2,1006
+513,4158,Shack-Made Lemonade Regular ,Drinks,2.8,2,1007
+514,4159,Shack-Made Lemonade Large ,Drinks,3.55,2,1007
+515,4160,Organic Fresh Brewed Iced Tea Regular ,Drinks,2.3,2,1007
+516,4161,Organic Fresh Brewed Iced Tea Large ,Drinks,2.8,2,1007
+517,4162,Fifty/Fifty Regular ,Drinks,2.55,2,1007
+518,4163,Fifty/Fifty Large ,Drinks,3.3,2,1007
+519,4164,Fountain Soda Regular ,Drinks,2.3,2,1007
+520,4165,Fountain Soda Large ,Drinks,2.8,2,1007
+521,4166,Draught Root Beer Regular ,Drinks,2.8,2,1007
+522,4167,Draught Root Beer Large ,Drinks,3.55,2,1007
+523,4168,Organic Apple Juice Regular (6.75 oz.) ,Drinks,1.9,2,1007
+524,4169,Bottled Water Regular (710 ml.) ,Drinks,2.4,2,1007
+525,4170,Stumptown Cold Brewed Coffee ,Drinks,4.75,2,1007
+526,4171,ShackMeister Ale Draught (16 oz.) ,Beer,5.69,2,1007
+527,4172,ShackMeister Ale Draught (24 oz.) ,Beer,7.69,2,1007
+528,4173,Shack White Glass (6 oz.) ,Wine,7.89,2,1007
+529,4174,Shack Red Glass (6 oz.) ,Wine,8.89,2,1007
+530,4175,Shack White Bottle (750 ml.) ,Wine,28.39,2,1007
+531,4176,Shack Red Bottle (750 ml.) ,Wine,31.99,2,1007
+661,4177,CokeÂ® 20 oz. ,Drinks,1.79,2,1008
+662,4178,CokeÂ® 2 Liter ,Drinks,2.99,2,1008
+663,4179,Coke Zeroâ¢ 20 oz. ,Drinks,1.79,2,1008
+664,4180,Coke Zeroâ¢ 2 Liter ,Drinks,2.99,2,1008
+665,4181,Diet CokeÂ® 20 oz. ,Drinks,1.79,2,1008
+666,4182,Diet CokeÂ® 2 Liter ,Drinks,2.99,2,1008
+667,4183,Sprite 20 oz. ,Drinks,1.79,2,1008
+668,4184,Sprite 2 Liter ,Drinks,2.99,2,1008
+669,4185,Pibb Xtra 20 oz. ,Drinks,1.79,2,1008
+670,4186,DasaniÂ® Water 20 oz. ,Drinks,1.79,2,1008
+671,4187,Orange 20 oz. ,Drinks,1.79,2,1008
+672,4188,Orange 2 Liter ,Drinks,2.99,2,1008
+733,4189,Soft Drink Medium ,Drinks,1.69,2,1009
+734,4190,Soft Drink Large ,Drinks,1.99,2,1009
+735,4191,Aquafina Water Bottle ,Drinks,1.69,2,1009
+736,4192,Iced Tea 1/2 Gallon ,Drinks,2.49,2,1009
+737,4193,Lemonade Medium ,Drinks,1.99,2,1009
+738,4194,Lemonade 1/2 Gallon ,Drinks,3.49,2,1009
+739,4195,Strawberry Lemonade Medium ,Drinks,2.29,2,1009
+740,4196,Strawberry Lemonade 1/2 Gallon ,Drinks,3.99,2,1009
+794,4197,Fountain Drink Regular ,Beverages,1.8,2,1010
+795,4198,Fountain Drink Large ,Beverages,2.2,2,1010
+796,4199,Bottled Water ,Beverages,1.9,2,1010
+797,4200,Bottled Soft Drink ,Beverages,2.5,2,1010
+844,4201,Coffee Small ,Beverages,1.59,2,1011
+845,4202,Coffee Medium ,Beverages,1.89,2,1011
+846,4203,Coffee Large ,Beverages,2.09,2,1011
+847,4204,Coffee X-Large ,Beverages,2.29,2,1011
+848,4205,Iced Coffee Small ,Beverages,1.99,2,1011
+849,4206,Iced Coffee Medium ,Beverages,2.49,2,1011
+850,4207,Iced Coffee Large ,Beverages,2.79,2,1011
+851,4208,Add a Turbo Shot of Espresso to Any Beverage ,Beverages,0.59,2,1011
+852,4209,Add Almond Milk ,Beverages,0.5,2,1011
+853,4210,DunkaccinoÂ® Small ,Beverages,1.69,2,1011
+854,4211,DunkaccinoÂ® Medium ,Beverages,2.09,2,1011
+855,4212,DunkaccinoÂ® Large ,Beverages,2.29,2,1011
+856,4213,DunkaccinoÂ® X-Large ,Beverages,2.49,2,1011
+857,4214,Vanilla Chai ,Beverages,2.15,2,1011
+858,4215,Cappuccino Small ,Beverages,2.69,2,1011
+859,4216,Cappuccino Medium ,Beverages,3.19,2,1011
+860,4217,Cappuccino Large ,Beverages,3.69,2,1011
+861,4218,Macchiatto Small ,Beverages,2.89,2,1011
+862,4219,Macchiatto Medium ,Beverages,3.39,2,1011
+863,4220,Macchiatto Large ,Beverages,3.89,2,1011
+864,4221,Iced Macchiatto Small ,Beverages,3.19,2,1011
+865,4222,Iced Macchiatto Medium ,Beverages,3.79,2,1011
+866,4223,Iced Macchiatto Large ,Beverages,4.19,2,1011
+867,4224,Box Oâ Joe ,Beverages,15.99,2,1011
+868,4225,Hot Chocolate Small ,Beverages,1.85,2,1011
+869,4226,Hot Chocolate Medium ,Beverages,2.15,2,1011
+870,4227,Hot Chocolate Large ,Beverages,2.35,2,1011
+871,4228,Hot Chocolate X-Large ,Beverages,2.55,2,1011
+872,4229,Hot Tea Small ,Beverages,1.59,2,1011
+873,4230,Hot Tea Medium ,Beverages,1.89,2,1011
+874,4231,Hot Tea Large ,Beverages,2.09,2,1011
+875,4232,Hot Tea X-Large ,Beverages,2.29,2,1011
+876,4233,Latte Small ,Beverages,2.69,2,1011
+877,4234,Latte Medium ,Beverages,3.19,2,1011
+878,4235,Latte Large ,Beverages,3.69,2,1011
+879,4236,Iced Latte Small ,Beverages,2.99,2,1011
+880,4237,Iced Latte Medium ,Beverages,3.59,2,1011
+881,4238,Iced Latte Large ,Beverages,3.99,2,1011
+882,4239,Latte Lite Small ,Beverages,2.69,2,1011
+883,4240,Latte Lite Medium ,Beverages,3.19,2,1011
+884,4241,Latte Lite Large ,Beverages,3.69,2,1011
+885,4242,Iced Latte Lite Small ,Beverages,2.99,2,1011
+886,4243,Iced Latte Lite Medium ,Beverages,3.59,2,1011
+887,4244,Iced Latte Lite Large ,Beverages,3.99,2,1011
+888,4245,Iced Tea or Iced Green Tea (Sweetened or Unsweetened) Small ,Beverages,1.49,2,1011
+889,4246,Iced Tea or Iced Green Tea (Sweetened or Unsweetened) Medium ,Beverages,1.99,2,1011
+890,4247,Iced Tea or Iced Green Tea (Sweetened or Unsweetened) Large ,Beverages,2.49,2,1011
+891,4248,Coolatta or Coolatta Lite Small ,Beverages,2.99,2,1011
+892,4249,Coolatta or Coolatta Lite Medium ,Beverages,3.99,2,1011
+893,4250,Coolatta or Coolatta Lite Large ,Beverages,4.99,2,1011
+894,4251,Frozen Coffee Small ,Beverages,2.99,2,1011
+895,4252,Frozen Coffee Medium ,Beverages,3.99,2,1011
+896,4253,Frozen Coffee Large ,Beverages,4.99,2,1011
+897,4254,Frozen Dunkaccino ,Beverages,2.99,2,1011
+898,4255,Smotthie â Tropical Mango or Strawberry Banana (Limited Time) ,Beverages,3.19,2,1011
+899,4256,Packaged Coffee (Limited Time) 3 lbs. ,Beverages,22.99,2,1011
+900,4257,K-CupÂ® Packs (Limited Time) 2 Boxes ,Beverages,17.99,2,1011
+925,4258,Fountain Drink ,Drinks,2.1,2,1012
+926,4259,Water Bottle ,Drinks,1.95,2,1012
+927,4260,Milk ,Drinks,1.95,2,1012
+1090,4261,Cafe LattÃ© Regular ,Espresso & Hot Drinks,3.59,2,1013
+1091,4262,Cafe LattÃ© Large ,Espresso & Hot Drinks,4.34,2,1013
+1092,4263,Skinny Cafe Mocha Regular ,Espresso & Hot Drinks,3.99,2,1013
+1093,4264,Skinny Cafe Mocha Large ,Espresso & Hot Drinks,4.74,2,1013
+1094,4265,Caramel LattÃ© Regular ,Espresso & Hot Drinks,3.99,2,1013
+1095,4266,Caramel LattÃ© Large ,Espresso & Hot Drinks,4.74,2,1013
+1096,4267,Cafe Mocha Regular ,Espresso & Hot Drinks,3.99,2,1013
+1097,4268,Cafe Mocha Large ,Espresso & Hot Drinks,4.74,2,1013
+1098,4269,Chai Tea LattÃ© Regular ,Espresso & Hot Drinks,3.99,2,1013
+1099,4270,Chai Tea LattÃ© Large ,Espresso & Hot Drinks,4.74,2,1013
+1100,4271,Cappuccino Regular ,Espresso & Hot Drinks,3.59,2,1013
+1101,4272,Cappuccino Large ,Espresso & Hot Drinks,4.34,2,1013
+1102,4273,Hot Chocolate with Chocolate Chip Marshmallows Medium ,Espresso & Hot Drinks,3.39,2,1013
+1103,4274,Hot Chocolate with Chocolate Chip Marshmallows Large ,Espresso & Hot Drinks,3.69,2,1013
+1104,4275,Hot Coffee Small ,Espresso & Hot Drinks,1.89,2,1013
+1105,4276,Hot Coffee Medium ,Espresso & Hot Drinks,2.09,2,1013
+1106,4277,Hot Coffee Large ,Espresso & Hot Drinks,2.25,2,1013
+1107,4278,Travel Refill ,Espresso & Hot Drinks,1.79,2,1013
+1108,4279,Hot Tea ,Espresso & Hot Drinks,1.79,2,1013
+1109,4280,Espresso ,Espresso & Hot Drinks,1.79,2,1013
+1110,4281,Unlimited Monthly Coffee Subscription ,Espresso & Hot Drinks,8.99,2,1013
+1111,4282,Low-Fat Mango Smoothie Regular ,Fruit Smoothies,4.39,2,1013
+1112,4283,Low-Fat Mango Smoothie Large ,Fruit Smoothies,4.79,2,1013
+1113,4284,Low-Fat Strawberry Banana Smoothie Regular ,Fruit Smoothies,4.39,2,1013
+1114,4285,Low Fat Strawberry Smoothie with Ginseng Regular ,Fruit Smoothies,4.39,2,1013
+1115,4286,Low Fat Strawberry Smoothie with Ginseng Large ,Fruit Smoothies,4.79,2,1013
+1116,4287,Fat-Free Superfruit Power Smoothie with Ginseng Regular ,Fruit Smoothies,4.39,2,1013
+1117,4288,Fat-Free Superfruit Power Smoothie with Ginseng Large ,Fruit Smoothies,4.79,2,1013
+1118,4289,Green Passion Power Smoothie Regular ,Fruit Smoothies,4.39,2,1013
+1119,4290,Blueberry Pomegranate Power Smoothie with Coconut Milk Regular ,Fruit Smoothies,4.39,2,1013
+1120,4291,Frozen Caramel or Mocha Medium ,Frozen Drinks,4.39,2,1013
+1121,4292,Frozen Caramel or Mocha Large ,Frozen Drinks,4.79,2,1013
+1122,4293,Soda Medium ,Iced Drinks,2.09,2,1013
+1123,4294,Soda Large ,Iced Drinks,2.49,2,1013
+1124,4295,Iced Caffe LattÃ© ,Iced Drinks,3.59,2,1013
+1125,4296,Iced Caffe Mocha ,Iced Drinks,3.99,2,1013
+1126,4297,Iced Caramel LattÃ© ,Iced Drinks,3.99,2,1013
+1127,4298,Iced Coffee Medium ,Iced Drinks,2.09,2,1013
+1128,4299,Iced Coffee Large ,Iced Drinks,2.49,2,1013
+1129,4300,Iced Chai Tea LattÃ© Medium ,Iced Drinks,3.99,2,1013
+1130,4301,Iced Chai Tea LattÃ© Large ,Iced Drinks,4.74,2,1013
+1131,4302,Iced Green Tea Medium ,Iced Drinks,2.09,2,1013
+1132,4303,Iced Green Tea Large ,Iced Drinks,2.49,2,1013
+1133,4304,Iced Tea Medium ,Iced Drinks,2.09,2,1013
+1134,4305,Iced Tea Large ,Iced Drinks,2.49,2,1013
+1135,4306,Lemonade Medium ,Iced Drinks,2.09,2,1013
+1136,4307,Lemonade Large ,Iced Drinks,2.49,2,1013
+1137,4308,Water Bottle ,Iced Drinks,1.99,2,1013
+1138,4309,Orange Juice Bottle ,Iced Drinks,2.49,2,1013
+1139,4310,Horizon Reduced Fat Organic Milk or Chocolate Milk ,Iced Drinks,1.79,2,1013
+1140,4311,Organic Apple Juice ,Iced Drinks,1.79,2,1013
+1141,4312,San Pellegrino Sparkling Water Bottle ,Iced Drinks,2.49,2,1013
+1142,4313,Panera Lemonade Bottle ,Iced Drinks,2.19,2,1013
+1143,4314,Harmless Harvest Coconut Water Bottle ,Iced Drinks,2.99,2,1013
+1144,4315,Blueprint Green or Red Juice Bottle ,Iced Drinks,5.99,2,1013
+1145,4316,Purity Organic Strawberry Paradise Juice Bottle ,Iced Drinks,2.49,2,1013
+1146,4317,Joia Grapefruit All-Natural Soda Bottle ,Iced Drinks,2.69,2,1013
+1386,4318,Smooth Roast Coffee Small ,Coffees & Iced Teas,1.0,2,1015
+1387,4319,Smooth Roast Coffee Medium ,Coffees & Iced Teas,1.59,2,1015
+1388,4320,Smooth Roast Coffee Large ,Coffees & Iced Teas,1.79,2,1015
+1389,4321,Smooth Roast Iced Coffee (Plain or Vanilla) Small ,Coffees & Iced Teas,1.89,2,1015
+1390,4322,Smooth Roast Iced Coffee (Plain or Vanilla) Medium ,Coffees & Iced Teas,2.39,2,1015
+1391,4323,Smooth Roast Iced Coffee (Plain or Vanilla) Large ,Coffees & Iced Teas,2.89,2,1015
+1392,4324,Iced Tea (Sweet or Unsweetened) Small ,Coffees & Iced Teas,1.79,2,1015
+1393,4325,Iced Tea (Sweet or Unsweetened) Medium ,Coffees & Iced Teas,2.09,2,1015
+1394,4326,Iced Tea (Sweet or Unsweetened) Large ,Coffees & Iced Teas,2.39,2,1015
+1395,4327,Fountain Drink Small ,Drinks,1.79,2,1015
+1396,4328,Fountain Drink Medium ,Drinks,2.09,2,1015
+1397,4329,Fountain Drink Large ,Drinks,2.39,2,1015
+1398,4330,Orange Juice ,Drinks,1.69,2,1015
+1399,4331,Apple Juice ,Drinks,1.29,2,1015
+1400,4332,Bottled Water ,Drinks,1.09,2,1015
+1401,4333,Icee Small ,Drinks,1.19,2,1015
+1402,4334,Icee Medium ,Drinks,1.59,2,1015
+1403,4335,Icee Large ,Drinks,2.09,2,1015
+1404,4336,Frappes (Mocha or Caramel) Small ,Real Fruit Smoothies & Frappes,2.59,2,1015
+1405,4337,Frappes (Mocha or Caramel) Medium ,Real Fruit Smoothies & Frappes,3.09,2,1015
+1406,4338,Frappes (Mocha or Caramel) Large ,Real Fruit Smoothies & Frappes,3.59,2,1015
+1407,4339,Smoothies (Strawberry Banana or Tropical Mango) Small ,Real Fruit Smoothies & Frappes,2.49,2,1015
+1408,4340,Smoothies (Strawberry Banana or Tropical Mango) Medium ,Real Fruit Smoothies & Frappes,2.99,2,1015
+1409,4341,Smoothies (Strawberry Banana or Tropical Mango) Large ,Real Fruit Smoothies & Frappes,3.49,2,1015
