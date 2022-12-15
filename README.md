@@ -24,3 +24,6 @@ Project Repository URL:
 
  https://github.com/snehalpadekar/Restaurant-Recommendation-and-Reservation-System
  
+ Physical Model:
+ 
+ ![Physical Model](https://user-images.githubusercontent.com/114432347/207770498-aa7f388f-a970-41db-8d14-2220336903f6.jpg)
