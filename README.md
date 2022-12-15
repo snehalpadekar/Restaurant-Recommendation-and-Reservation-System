@@ -31,4 +31,7 @@ Project Repository URL:
  ER Model:
  
  ![ER diagram](https://user-images.githubusercontent.com/114432347/207771107-1e703aa7-6df5-4eeb-ab1c-8bacf815e0b0.jpg)
-
+ 
+ Use Case DIagram :
+ 
+ ![Usecase diagram](https://user-images.githubusercontent.com/72752232/207772438-994654a1-2c58-4d60-9029-644ff87b4dce.jpg)
