@@ -1,0 +1,30 @@
+,cancellation_id,Cancellation reason,restaurant_id,user_id
+0,8001,Did not like,1013,2090
+1,8002,Booked another restaurant,1005,2005
+2,8003,Did not like,1013,2092
+3,8004,Costly restaurant,1004,2098
+4,8005,Cant make it,1005,2023
+5,8006,Costly restaurant,1012,2012
+6,8007,Booked another restaurant,1003,2074
+7,8008,Cant make it,1004,2054
+8,8009,Did not like,1014,2007
+9,8010,Costly restaurant,1009,2069
+10,8011,Did not like,1012,2078
+11,8012,Costly restaurant,1015,2036
+12,8013,Cant make it,1009,2040
+13,8014,Booked another restaurant,1014,2073
+14,8015,Costly restaurant,1012,2096
+15,8016,Travel plans,1014,2021
+16,8017,Did not like,1010,2003
+17,8018,Travel plans,1001,2026
+18,8019,Booked another restaurant,1008,2058
+19,8020,Cant make it,1011,2057
+20,8021,Travel plans,1012,2043
+21,8022,Costly restaurant,1001,2071
+22,8023,Did not like,1010,2050
+23,8024,Costly restaurant,1008,2028
+24,8025,Cant make it,1004,2086
+25,8026,Did not like,1006,2070
+26,8027,Booked another restaurant,1001,2090
+27,8028,Cant make it,1008,2095
+28,8029,Travel plans,1014,2023
