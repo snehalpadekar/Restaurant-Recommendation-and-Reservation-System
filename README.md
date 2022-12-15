@@ -27,3 +27,8 @@ Project Repository URL:
  Physical Model:
  
  ![Physical Model](https://user-images.githubusercontent.com/114432347/207770498-aa7f388f-a970-41db-8d14-2220336903f6.jpg)
+ 
+ ER Model:
+ 
+ ![ER diagram](https://user-images.githubusercontent.com/114432347/207771107-1e703aa7-6df5-4eeb-ab1c-8bacf815e0b0.jpg)
+
